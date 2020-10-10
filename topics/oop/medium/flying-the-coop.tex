@@ -78,6 +78,27 @@ Ice to meet you
 \begin{solution}[.2in]
 noot
 \end{solution}
-
 \end{blocksection}
 \onecolumn
+
+\begin{blocksection}
+\begin{guide}
+\textbf{Teaching Tips}
+\begin{itemize}
+\item Consider giving a mini lecture on inheritance before doing this question
+\item It may be helpful to use a \href{https://goo.gl/KkFr9F}{live environment diagram of the execution}
+\item Emphasize the order of variable lookup
+\begin{itemize}
+  \item When looking for a variable, go from instance to class to parent until failure
+\end{itemize}
+\item Emphasize the different ways to pass in \lstinline{self} for any function, either using dot notation or passing it in as a parameter
+\begin{itemize}
+  \item For \lstinline{Bird.speak(gunter)}, \lstinline{Bird} is not passed in for \lstinline{self}, since \lstinline{Bird} is a class, not an instance
+\end{itemize}
+\item For \lstinline{andre.speak(Bird("coo"))}, an "unnamed" \lstinline{Bird} object is created and passed in as a parameter
+\begin{itemize}
+  \item Make sure students understand how this works- it can help to draw a temporary box for this \lstinline{Bird} object in your OOP diagram and erase it afterwards
+\end{itemize}
+\end{itemize}
+\end{guide}
+\end{blocksection}

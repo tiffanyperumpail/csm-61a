@@ -10,7 +10,7 @@ This \lstinline{__str__} method gives us readable information: the person's name
 >>> p = Person("John Denero")
 >>> str(p)
 'Hello, my name is John Denero'
->>> print(p)              
+>>> print(p)
 Hello, my name is John Denero
 \end{lstlisting}
 
@@ -25,20 +25,50 @@ Then we can write the following code:
 
 \begin{lstlisting}
 # Python calls this object's repr function to see what
-# to print on the line. Note, Python prints whatever 
+# to print on the line. Note, Python prints whatever
 # result it gets from repr so it removes the quotes
 # from the string
->>> p 
+>>> p
 Name: John Denero
 
 # User is invoking the repr function directly.
 # Since the function returns a string, its output
 # has quotes. In the previous line, Python called
-# repr and then printed the value. This line works 
-# like a regular function call: if a function 
+# repr and then printed the value. This line works
+# like a regular function call: if a function
 # returns a string, output that string with quotes.
->>> repr(p) 
+>>> repr(p)
 "Name: John Denero"
 \end{lstlisting}
 
-
+\begin{blocksection}
+\begin{guide}
+\textbf{Teaching Tips}
+\begin{itemize}
+\item \lstinline{__repr__} and \lstinline{__str__} error if they do not return strings
+\item Writing the correct quotation marks for \lstinline{str} and \lstinline{repr} results is required on midterms and can be confusing for students
+\begin{itemize}
+  \item \lstinline{string} leaves quotation marks
+  \begin{itemize}
+    \item \lstinline{"test" = 'test'}
+  \end{itemize}
+  \item \lstinline{print} removes quotation marks
+  \begin{itemize}
+    \item \lstinline{print("test") = test}
+  \end{itemize}
+  \item \lstinline{repr} adds quotation marks
+  \begin{itemize}
+    \item \lstinline{repr("test") = "'test'"}
+  \end{itemize}
+  \item \lstinline{str} leaves quotation marks
+  \begin{itemize}
+    \item \lstinline{str("test") = 'test'}
+  \end{itemize}
+  \item \lstinline{repr} and \lstinline{str} both add quotation marks to numbers or booleans
+  \begin{itemize}
+    \item \lstinline{repr(3) = '3'}
+  \end{itemize}
+\end{itemize}
+\end{itemize}
+\end{guide}
+\end{blocksection}

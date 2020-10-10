@@ -63,3 +63,18 @@ class PingPongTracker:
 \end{solution}
 
 \end{blocksection}
+
+\begin{blocksection}
+\begin{guide}
+\textbf{Teaching Tips}
+\begin{itemize}
+\item Describe instance independence when going through doctests- why does \lstinline{tracker2} not update when \lstinline{tracker1} updates?
+\item Ask students what variables a tracker needs to use and how they should be initialized in \lstinline{__init__}
+\item If you have time, compare and contrast the nonlocal vs. object oriented approach
+\begin{itemize}
+  \item Emphasize how nonlocal and OOP both save the "state" of something, but note the pros/cons of both
+\end{itemize}
+\item Make sure students don't confuse this \lstinline{next} with the built-in iterator function \lstinline{next}
+\end{itemize}
+\end{guide}
+\end{blocksection}
