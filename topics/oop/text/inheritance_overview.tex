@@ -5,3 +5,11 @@ This avoids rewriting large blocks of code and gives us a nice hierarchy to unde
 
 You include the class you inherit from in the class definition (\lstinline{class SubClass(SuperClass)}). The subclass can inherit any methods, including the constructor from the superclass. You also inherit class attributes of the superclass. \\
 You can call the constructor or any othe method of the superclass with the code \lstinline{SuperClass.__init__(<whatever parameters are required>)} if you want the same constructor but with some additional information. All methods and class attributes can be overridden in the subclass, by simply creating an attribute or method with the same name. \\\\
+\begin{guide}
+\textbf{Teaching Tips}
+\begin{itemize}
+  \item If your students still feel less confident about the inheritance topic, an example that you can give is creating a Car class, then creating subclasses such as Truck and Motorcycle.
+  \item Examples of instance methods include drive() and refuel(). You can include class attributes such as wheels, and instance attributes such as fuel and mileage.
+  \item Feel free to get creative and ask your students for some attributes/methods!
+\end{itemize}
+\end{guide}
