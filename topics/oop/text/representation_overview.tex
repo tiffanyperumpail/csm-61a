@@ -1,11 +1,15 @@
 \textbf{Representation Overview: \lstinline{__repr__} and \lstinline{__str__}}
 
 The goal of \lstinline{__str__} is to convert an object to a human-readable string. The \lstinline{__str__} function is helpful for printing objects and giving us information that's more readable than \lstinline{__repr__}. Whenever we call \lstinline{print()} on an object, it will call the \lstinline{__str__} method of that object and print whatever value the \lstinline{__str__} call returned. For example, if we had a \lstinline{Person} class with a name instance variable, we can create a \lstinline{__str__} method like this:
+\vspace{.25cm}
 \begin{lstlisting}
 def __str__(self):
     return "Hello, my name is " + self.name
 \end{lstlisting}
+\vspace{.25cm}
+
 This \lstinline{__str__} method gives us readable information: the person's name. Now, when we call print on a person, the following will happen:
+\vspace{.25cm}
 \begin{lstlisting}
 >>> p = Person("John Denero")
 >>> str(p)
@@ -13,16 +17,18 @@ This \lstinline{__str__} method gives us readable information: the person's name
 >>> print(p)
 Hello, my name is John Denero
 \end{lstlisting}
+\vspace{.25cm}
 
 The \lstinline{__repr__} magic method of objects returns the "official" string representation of an object. You can invoke it directly by calling \lstinline{repr(<some object>)}. However, \lstinline{__repr__} doesn't always return something that is easily readable, that is what \lstinline{__str__} is for. Rather, \lstinline{__repr__} ensures that all information about the object is present in the representation. When you ask Python to represent an object in the Python interpreter, it will automatically call \lstinline{repr} on that object and then print out the string that \lstinline{repr} returns. If we were to continue our \lstinline{Person} example from above, let's say that we added a \lstinline{repr} method:
-
+\vspace{.25cm}
 \begin{lstlisting}
 def __repr__(self):
     return "Name: " + self.name
 \end{lstlisting}
+\vspace{.25cm}
 
 Then we can write the following code:
-
+\vspace{.25cm}
 \begin{lstlisting}
 # Python calls this object's repr function to see what
 # to print on the line. Note, Python prints whatever
@@ -40,6 +46,7 @@ Name: John Denero
 >>> repr(p)
 "Name: John Denero"
 \end{lstlisting}
+\vspace{.25cm}
 
 \begin{blocksection}
 \begin{guide}
