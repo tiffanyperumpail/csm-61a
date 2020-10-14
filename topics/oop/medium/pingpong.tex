@@ -4,18 +4,16 @@
 As a reminder, the ping-pong sequence counts up starting from 1 and is
 always either counting up or counting down.
 
-At element \lstinline{k}, the direction switches if \lstinline{k} is a multiple of 7 or contains the
-digit 7.
+At element \lstinline{k}, the direction switches if \lstinline{k} is a multiple of 8 or contains the
+digit 8.
 
 The first 30 elements of the ping-pong sequence are listed below, with direction
-swaps marked using brackets at the 7th, 14th, 17th, 21st, 27th, and 28th
-elements:
+swaps marked using brackets at the 8th, 16th, 18th, 24th, and 28th elements:
 \begin{lstlisting}
-1 2 3 4 5 6 [7] 6 5 4 3 2 1 [0] 1 2 [3] 2 1 0 [-1] 0 1 2 3 4
-[5] [4] 5 6
+1 2 3 4 5 6 7 [8] 7 6 5 4 3 2 1 [0] 1 [2] 1 0 -1 -2 -3 [-4] -3 -2 -1 [0] -1 -2
 \end{lstlisting}
 
-Assume you have a function \texttt{has\_seven(k)} that returns True if $k$ contains the digit 7.
+Assume you have a function \texttt{has\_eight(k)} that returns True if $k$ contains the digit 8.
 
 \vspace{1\baselineskip}
 \begin{lstlisting}
@@ -54,7 +52,7 @@ class PingPongTracker:
             self.current += 1
         else:
             self.current -= 1
-        if has_seven(self.index) or self.index % 7 == 0:
+        if has_eight(self.index) or self.index % 8 == 0:
             self.add = not self.add
         self.index += 1
         return self.current
