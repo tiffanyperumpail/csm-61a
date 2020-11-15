@@ -1,0 +1,96 @@
+\question For this part, just implement up to the \texttt{\_\_init\_\_} method and include any class attributes that might be helpful. Assume each CloneAnt starts off with 2 health. 
+    \textbf{Note:} In the project, this would probably inherit from the Ant class, but let's make our own self-contained version!
+    \newpage
+    \begin{lstlisting}
+    class CloneAnt:
+        _____________________________________________________
+
+        def __init__(self):
+
+            ________________________________________________
+
+            ________________________________________________
+
+            ________________________________________________
+
+        def attack(self, other):
+
+            ________________________________________________
+
+        def take_damage(self):
+
+            ________________________________________________
+
+            ________________________________________________
+
+            ________________________________________________
+
+        def die(___________):
+
+            ________________________________________________
+
+            ________________________________________________
+
+        def __str__(self):
+           
+            ________________________________________________
+    \end{lstlisting}
+
+    \begin{solution}
+    \begin{lstlisting}
+    class CloneAnt:
+        num_clones = 0 
+
+        def __init__(self):
+            CloneAnt.num_clones += 1 # what if we replaced this with self.num_clones += 1?
+            self.damage = CloneAnt.num_clones
+            self.health = 2
+
+        def attack(self, other):
+            other.take_damage(self.damage)
+
+        def take_damage(self, damage):
+            self.health -= damage
+            if self.health < 0:
+                self.die()
+
+        def die(self):
+            CloneAnt.num_clones -= 1
+            print("goodbye...")
+
+        def __str__(self):
+            return "CloneAnt with {} damage and {} health".format(self.damage, self.health)
+    \end{lstlisting}
+    \end{solution}
+
+\question Nice! Now we can construct CloneAnts. Next, let's implement it so that our CloneAnt can interact with the world. 
+Implement the \texttt{attack} and \texttt{take\_damage} methods accordingly in the code block from the previous part. Assume \texttt{other} has a \texttt{take\_damage} method that you want to call in \texttt{attack}.
+
+Quick dot notation check! What's another way to write \texttt{clone1.die()}, where \texttt{clone} is an instance of a \texttt{CloneAnt}?
+
+\begin{solution}
+\begin{lstlisting}
+CloneAnt.die(clone1)
+\end{lstlisting}
+\end{solution}
+
+\question Debugging has been super annoying for this problem - to check my CloneAnt instance's health and damage, I've had to print out \texttt{clone.health} and \texttt{clone.damage} each time! I sure wish I could just \texttt{print(clone)} instead...
+
+Implement the \texttt{\_\_str\_\_} method in the code from part (a) so we can just print the clone object and get back its damage and health in a readable format (this is open ended, so you can return anything that makes sense to you! Just make sure it contains the instance's damage and health).
+
+\question Uh oh, in our experimentation, we accidentally created a Mutant Clone Ant that, when attacked, loses attack damage rather than health! Mutant Clone Ants still are classified as Clone Ants, and have damage equal to the total amount of CloneAnts upon instantiation.. It should die when it has no more attack damage. Fill out the class below. Think about what methods we need to define, and which ones we don't.
+
+\begin{lstlisting}
+class MutantCloneAnt(_____):
+
+\end{lstlisting}
+
+\begin{solution}[1.0in]
+\begin{lstlisting}
+class MutantCloneAnt(CloneAnt):
+    def take_damage(self, damage):
+        self.attack -= damage
+        if self.attack < 0:
+            self.die()
+\end{lstlisting}
+\end{solution}
