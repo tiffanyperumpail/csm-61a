@@ -1,0 +1,238 @@
+\question First, let's implement the Crewmate class so that it satisfies the doctests below.
+\begin{lstlisting}
+class Crewmate:
+    """
+    >>> pink = Crewmate("Pink")
+    >>> lime = Crewmate("Lime")
+    >>> pink.add_tasks(["clear asteroids", "fix wiring", "swipe card"])
+    >>> print(pink)
+    Pink crewmate has 3 tasks left.
+    >>> lime.add_tasks(["fuel engines", "chart course", "prime shields"])
+    >>> lime.do_task()
+    >>> lime.tasks
+    ["chart course", "prime shields"]
+    >>> pink.alive
+    True
+    >>> print(Crewmate.crew_size)
+    2
+    >>> another_pink = Crewmate("Pink")
+    Cannot have two crewmates of the same color!
+    >>> Crewmate.total_tasks
+    5
+    """
+    crew_size = 0
+    crew_colors = []
+    total_tasks = 0
+    
+    def __init__(self, color):
+        if ____________________________:
+            ____________________________
+            ____________________________
+            ____________________________
+            Crewmate.crew_size += __________________
+            Crewmate.crew_colors._____________(______________)
+        else:
+            print("Cannot have two crewmates of the same color!")
+            
+    def add_tasks(self, tasks):
+        ____________________________
+        ____________________________
+    
+    def do_task(self):
+        ____________________________
+        ____________________________
+    
+    def __str__(self):
+        return "{} crewmate has {} tasks left.".format(___________________, ___________________)
+\end{lstlisting}
+\begin{solution}
+\begin{lstlisting}
+class Crewmate:
+    crew_size = 0
+    crew_colors = []
+    total_tasks = 0
+    
+    def __init__(self, color):
+        if color not in Crewmate.crew_colors:
+            self.color = color
+            self.tasks = []
+            self.alive = True
+            Crewmate.crew_size += 1
+            Crewmate.crew_colors.append(color)
+        else:
+            print("Cannot have two crewmates of the same color!")
+            
+    def add_tasks(self, tasks):
+        self.tasks.extend(tasks)
+        Crewmate.total_tasks += len(tasks)
+    
+    def do_task(self):
+        self.tasks.pop(0)
+        Crewmate.total_tasks -= 1
+    
+    def __str__(self):
+        return "{} crewmate has {} tasks left.".format(self.color, len(self.tasks))
+\end{lstlisting}
+\end{solution}
+
+\question Now let's create the Impostor! The Impostor is a type of Crewmate so that he/she blends in, but they have certain extra powers. In addition to implementing the Impostor class, you'll also have to modify some parts of the Crewmate class to meet all the doctest requirements.
+\begin{lstlisting}
+class Impostor(Crewmate):
+    """
+    >>> red = Impostor("Red")
+    >>> yellow = Crewmate("Yellow")
+    >>> purple = Crewmate("Purple")
+    >>> cyan = Crewmate("Cyan")
+    >>> cyan.add_tasks(["submit scan", "divert power", "unlock manifolds"])
+    >>> red.add_tasks(["download data", "empty chute"])
+    >>> print(Impostor.total_tasks)
+    3
+    >>> red.kill(cyan)
+    >>> print(cyan.alive)
+    False
+    >>> print(Crewmate.crew_size)
+    3
+    >>> red.sabotage()
+    Comms sabotaged!
+    >>> red.sabotage()
+    Reactor meltdown!
+    >>> red.sabotage()
+    Oxygen depleted!
+    >>> red.sabotage()
+    Fix lights!
+    >>> red.sabotage()
+    No more sabotages left.
+    """
+    sabotages = ["Comms sabotaged!", "Reactor meltdown!", "Oxygen depleted!", "Fix lights!"]
+    
+    def __init__(self, color):
+        ____________________________
+        self.s = ___________________
+    
+    def kill(self, crewmate):
+        ____________________________
+        ____________________________
+    
+    def sabotage(self):
+        try:
+            ____________________________
+        ____________________________:
+            print(____________________________)
+    
+    def enable_sabotages(self):
+    	____________________________
+
+class Crewmate:
+    . . .
+    def add_tasks(self, tasks):
+        self.tasks.extend(tasks)
+        if ____________________________:
+            total_tasks += len(tasks)
+    
+    def do_task(self):
+        if ____________________________:
+            self.tasks.pop(0)
+            total_tasks -= 1
+    . . .
+\end{lstlisting}
+\begin{solution}
+\begin{lstlisting}
+class Impostor(Crewmate):
+    sabotages = ["Comms sabotaged!", "Reactor meltdown!", "Oxygen depleted!", "Fix lights!"]
+    
+    def __init__(self, color):
+        super().__init__(color)
+        self.s = self.enable_sabotages()
+    
+    def kill(self, crewmate):
+        crewmate.alive = False
+        Crewmate.crew_size -= 1
+    
+    def sabotage(self):
+        try:
+            next(self.s)
+        except StopIteration:
+            print("No more sabotages left.")
+     
+     def enable_sabotages(self):
+     	yield from Impostor.sabotages
+
+class Crewmate:
+    . . .
+    def add_tasks(self, tasks):
+        self.tasks.extend(tasks)
+        if not isinstance(self, Impostor):
+            total_tasks += len(tasks)
+    
+    def do_task(self):
+        if not isinstance(self, Impostor):
+            self.tasks.pop(0)
+            total_tasks -= 1
+    . . .
+\end{lstlisting}
+\end{solution}
+
+\question Finally, let's add a meeting functionality. At meetings, either a crewmate or the Impostor will be voted off. If a crewmate is voted off, the crew gets sad but must still continue their work. If the Impostor gets voted off, the crewmates win! Remember to modify the Crewmate class a bit to support meetings in addition to implementing the Meeting class.
+\begin{lstlisting}
+class Meeting:
+    """
+    >>> brown = Crewmate("Brown")
+    >>> black = Crewmate("Black")
+    >>> green = Crewmate("Green")
+    >>> white = Impostor("White")
+    >>> m = Meeting("White")
+    >>> brown.vote(m, green)
+    >>> black.vote(m, green)
+    >>> m.eject()
+    Boo hoo
+    >>> n = Meeting("White")
+    >>> brown.vote(n, white)
+    >>> black.vote(n, white)
+    >>> white.vote(n, black)
+    >>> n.eject()
+    Woo hoo
+    """
+    def __init__(self, impostor):
+        self.impostor = impostor
+        self.votes = [[c, 0] for c in __________________]
+    
+    def eject(self):
+        sus = __________(self.votes, key = ____________________)[0]
+        if ____________________________:
+            ____________________________ -= 1
+            ____________________________.remove(sus)
+            print("Boo hoo")
+        else:
+            print("Woo hoo")
+
+class Crewmate:
+    . . .
+    def vote(self, meeting, member):
+        i = ____________________________.index(____________________________)
+        meeting.votes[i][1] += ____________________________
+    . . .
+\end{lstlisting}
+\begin{solution}
+\begin{lstlisting}
+class Meeting:
+    def __init__(self, impostor):
+        self.impostor = impostor
+        self.votes = [[c, 0] for c in Crewmate.crew_colors]
+    
+    def eject(self):
+        sus = max(self.votes, key = lambda v : v[1])[0]
+        if sus != self.impostor:
+            Crewmate.crew_size -= 1
+            Crewmate.crew_colors.remove(sus)
+            print("Boo hoo")
+        else:
+            print("Woo hoo")
+
+class Crewmate:
+    . . .
+    def vote(self, meeting, member):
+        i = Crewmate.crew_colors.index(member.color)
+        meeting.votes[i][1] += 1
+    . . .
+\end{lstlisting}
+\end{solution}

@@ -1,0 +1,120 @@
+\begin{blocksection}
+\question
+\textbf{a. Ballot Rigger} In the 2020 election, Donald Trump's campaign advisors have decided to push back against the election fraud by rigging ballots themselves. Let's see how many ballots they were able to rig!
+
+\begin{lstlisting}
+class Ballot:
+    choices = ___________________________
+    def __init__(self, name, bubble):
+        self.name = name
+        self.vote = _________________________
+
+california = [Ballot('nancy', 'c'), Ballot('jeremy', 'd'), Ballot('joe', 'b')]
+white_house = [Ballot('donald', 'a'), Ballot('melania', 'a'), Ballot('mike', 'a')]
+postman = []
+postman.extend(white_house)
+postman.append(california)
+\end{lstlisting}
+In the ballot, bubble ‘a’ corresponds to ‘Trump’, ‘b’ corresponds to ‘Biden’, ‘c’ corresponds to ‘West’, and ‘d’ corresponds to ‘Other’. Fill out the blanks above to categorize each voter's choice.
+\begin{solution}[1in]
+\begin{lstlisting}
+class Ballot:
+    choices = {'a': 'Trump','b':'Biden', 'c':'West', 'd':'Other'}
+    def __init__(self, name, bubble):
+        self.name = name
+        self.vote = Ballot.choices[bubble]
+california = [Ballot('nancy', 'c'), Ballot('jeremy', 'd'), Ballot('joe', 'b')]
+white_house = [Ballot('donald', 'a'), Ballot('melania', 'a'), Ballot('mike', 'a')]
+postman = []
+postman.extend(white_house)
+postman.append(california)
+\end{lstlisting}
+\end{solution}
+\end{blocksection}
+
+\begin{blocksection}
+\vspace{1\baselineskip}
+\textbf{b. Changing Ballots}
+The Ballot Rigger takes all ballots and rigs them, changing votes for Biden and Other to Trump. Implement this in the lines of code above.
+\vspace{1\baselineskip}
+\begin{lstlisting}
+class BallotRigger:
+    def rig(self, ballot):
+        ___________________________________
+        	_______________________________
+
+bad_guy = __________________
+for ballot in california:
+    bad_guy.__________________
+for ballot in white_house:
+    bad_guy.__________________
+
+
+\end{lstlisting}
+\begin{solution}[1in]
+\begin{lstlisting}
+class BallotRigger:
+    def rig(self, ballot):
+        if ballot.vote == 'Biden' or ballot.vote == 'Other':
+            ballot.vote = 'Trump'
+bad_guy = BallotRigger()
+for ballot in california:
+    bad_guy.rig(ballot)
+for ballot in white_house:
+    bad_guy.rig(ballot)
+\end{lstlisting}
+\end{solution}
+\vspace{1\baselineskip}
+\textbf{c. Tallying Votes}
+After the Ballot Rigger has rigged the ballots, return the number of votes for each candidate, implement the \lstinline{count_votes} method, which adds votes to the count dictionary.
+\emph{Hint:} How can we deal with nested lists of ballots?
+\vspace{1\baselineskip}
+\begin{lstlisting}
+choices = {'Trump': 0 ,'Biden': 0, 'West': 0, 'Other': 0}
+def count_votes(ballots):
+    for b in ballots:
+        if isinstance(________,________):
+            _______________
+        else:
+            ____________ += 1
+
+ballot_counter = postman[:]
+count_ballots(ballot_counter)
+
+
+\end{lstlisting}
+\begin{solution}[1in]
+\begin{lstlisting}
+choices = {'Trump': 0 ,'Biden': 0, 'West': 0, 'Other': 0}
+def count_votes(ballots):
+    for b in ballots:
+        if isinstance(b, list):
+            count_votes(b)
+        else:
+            choices[b.vote] += 1
+
+ballot_counter = postman[:]
+count_votes(ballot_counter)
+\end{lstlisting}
+\end{solution}
+\end{blocksection}
+
+
+
+\begin{blocksection}
+\vspace{1\baselineskip}
+\textbf{d. Final Count}
+Fill in the final tallies of votes for each candidate.
+\emph{Hint:} It might help to draw box and pointer diagrams for \lstinline{postman} abd \lstinline{ballot_counter}.
+\vspace{1\baselineskip}
+\begin{lstlisting}
+choices = {'Trump': __ ,'Biden': __, 'West': __, 'Other': __}
+
+\end{lstlisting}
+\begin{solution}[1in]
+\begin{lstlisting}
+choices = {'Trump': 5 ,'Biden': 0, 'West': 1, 'Other': 0}
+\end{lstlisting}
+\end{solution}
+
+\end{blocksection}
