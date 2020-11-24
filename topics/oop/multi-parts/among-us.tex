@@ -9,6 +9,8 @@ class Crewmate:
     Pink crewmate has 3 tasks left.
     >>> lime.add_tasks(["fuel engines", "chart course", "prime shields"])
     >>> lime.do_task()
+    >>> [lime.do_task() for _ in range(3)]
+    AssertionError: Lime crewmate has no more tasks left!
     >>> lime.tasks
     ["chart course", "prime shields"]
     >>> pink.alive
@@ -18,7 +20,7 @@ class Crewmate:
     >>> another_pink = Crewmate("Pink")
     Cannot have two crewmates of the same color!
     >>> Crewmate.total_tasks
-    5
+    3
     """
     crew_size = 0
     crew_colors = []
@@ -39,6 +41,7 @@ class Crewmate:
         ____________________________
     
     def do_task(self):
+        assert _____________________
         ____________________________
         ____________________________
     
@@ -67,6 +70,7 @@ class Crewmate:
         Crewmate.total_tasks += len(tasks)
     
     def do_task(self):
+        assert len(self.tasks) > 0, "{} crewmate has no more tasks left!".format(self.color)
         self.tasks.pop(0)
         Crewmate.total_tasks -= 1
     

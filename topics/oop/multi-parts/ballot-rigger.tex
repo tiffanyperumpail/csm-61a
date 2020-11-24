@@ -1,30 +1,36 @@
 \begin{blocksection}
 \question
-\textbf{a. Ballot Rigger} In the 2020 election, Donald Trump's campaign advisors have decided to push back against the election fraud by rigging ballots themselves. Let's see how many ballots they were able to rig!
+\textbf{a. Ballot Rigger} In the 2020 CSM election, Jade's campaign advisors have decided to push back against the election fraud by rigging ballots themselves. Let's see how many ballots they were able to rig!
+
+Fill in the \texttt{Ballot} Class such that each ballot's \texttt{vote} attribute corresponds to the name of the person they vote for.
+
+In the ballot, bubble 'a' corresponds to 'Jade', 'b' corresponds to 'Jason', 'c' corresponds to 'Richard', and 'd' corresponds to 'Other'. Fill out the blanks above to categorize each voter's choice.
+
+\emph{Hint:} It may be useful to let \texttt{choices} be a dictionary of bubble choices to names.
 
 \begin{lstlisting}
 class Ballot:
-    choices = ___________________________
+    choices = __________________________ 
     def __init__(self, name, bubble):
         self.name = name
         self.vote = _________________________
 
-california = [Ballot('nancy', 'c'), Ballot('jeremy', 'd'), Ballot('joe', 'b')]
-white_house = [Ballot('donald', 'a'), Ballot('melania', 'a'), Ballot('mike', 'a')]
+california = [Ballot('kenny', 'c'), Ballot('alina', 'd'), Ballot('jamie', 'b')]
+white_house = [Ballot('jade', 'a'), Ballot('jason', 'a'), Ballot('catherine', 'a')]
 postman = []
 postman.extend(white_house)
 postman.append(california)
 \end{lstlisting}
-In the ballot, bubble ‘a’ corresponds to ‘Trump’, ‘b’ corresponds to ‘Biden’, ‘c’ corresponds to ‘West’, and ‘d’ corresponds to ‘Other’. Fill out the blanks above to categorize each voter's choice.
+
 \begin{solution}[1in]
 \begin{lstlisting}
 class Ballot:
-    choices = {'a': 'Trump','b':'Biden', 'c':'West', 'd':'Other'}
+    choices = {'a': 'Jade','b':'Jason', 'c':'Richard', 'd':'Other'}
     def __init__(self, name, bubble):
         self.name = name
         self.vote = Ballot.choices[bubble]
-california = [Ballot('nancy', 'c'), Ballot('jeremy', 'd'), Ballot('joe', 'b')]
-white_house = [Ballot('donald', 'a'), Ballot('melania', 'a'), Ballot('mike', 'a')]
+california = [Ballot('kenny', 'c'), Ballot('alina', 'd'), Ballot('jamie', 'b')]
+white_house = [Ballot('jade', 'a'), Ballot('jason', 'a'), Ballot('catherine', 'a')]
 postman = []
 postman.extend(white_house)
 postman.append(california)
@@ -35,7 +41,7 @@ postman.append(california)
 \begin{blocksection}
 \vspace{1\baselineskip}
 \textbf{b. Changing Ballots}
-The Ballot Rigger takes all ballots and rigs them, changing votes for Biden and Other to Trump. Implement this in the lines of code above.
+The Ballot Rigger takes all ballots and rigs them, changing votes for Jason and Other to Jade. Implement this in the lines of code above.
 \vspace{1\baselineskip}
 \begin{lstlisting}
 class BallotRigger:
@@ -55,8 +61,8 @@ for ballot in white_house:
 \begin{lstlisting}
 class BallotRigger:
     def rig(self, ballot):
-        if ballot.vote == 'Biden' or ballot.vote == 'Other':
-            ballot.vote = 'Trump'
+        if ballot.vote == 'Jason' or ballot.vote == 'Other':
+            ballot.vote = 'Jade'
 bad_guy = BallotRigger()
 for ballot in california:
     bad_guy.rig(ballot)
@@ -66,11 +72,11 @@ for ballot in white_house:
 \end{solution}
 \vspace{1\baselineskip}
 \textbf{c. Tallying Votes}
-After the Ballot Rigger has rigged the ballots, return the number of votes for each candidate, implement the \lstinline{count_votes} method, which adds votes to the count dictionary.
-\emph{Hint:} How can we deal with nested lists of ballots?
+After the Ballot Rigger has rigged the ballots, return the number of votes for each candidate, implement the \lstinline{count_votes} method, which adds votes to the count dictionary. 
+\emph{Hint:} Our ballot list can contain both Ballots and lists of Ballots! How can we deal with nested lists of ballots?
 \vspace{1\baselineskip}
 \begin{lstlisting}
-choices = {'Trump': 0 ,'Biden': 0, 'West': 0, 'Other': 0}
+choices = {'Jade': 0 ,'Jason': 0, 'Richard': 0, 'Other': 0}
 def count_votes(ballots):
     for b in ballots:
         if isinstance(________,________):
@@ -85,7 +91,7 @@ count_ballots(ballot_counter)
 \end{lstlisting}
 \begin{solution}[1in]
 \begin{lstlisting}
-choices = {'Trump': 0 ,'Biden': 0, 'West': 0, 'Other': 0}
+choices = {'Jade': 0 ,'Jason': 0, 'Richard': 0, 'Other': 0}
 def count_votes(ballots):
     for b in ballots:
         if isinstance(b, list):
@@ -108,12 +114,12 @@ Fill in the final tallies of votes for each candidate.
 \emph{Hint:} It might help to draw box and pointer diagrams for \lstinline{postman} abd \lstinline{ballot_counter}.
 \vspace{1\baselineskip}
 \begin{lstlisting}
-choices = {'Trump': __ ,'Biden': __, 'West': __, 'Other': __}
+choices = {'Jade': __ ,'Jason': __, 'Richard': __, 'Other': __}
 
 \end{lstlisting}
 \begin{solution}[1in]
 \begin{lstlisting}
-choices = {'Trump': 5 ,'Biden': 0, 'West': 1, 'Other': 0}
+choices = {'Jade': 5 ,'Jason': 0, 'Richard': 1, 'Other': 0}
 \end{lstlisting}
 \end{solution}
 

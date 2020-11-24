@@ -3,6 +3,22 @@
     \newpage
     \begin{lstlisting}
     class CloneAnt:
+    """
+    >>> ant1 = CloneAnt()
+    >>> ant2 = CloneAnt()
+    >>> print(ant1.damage, ant2.damage)
+    1 2
+    >>> ant1.health
+    2
+    >>> ant2.take_damage(1)
+    >>> ant2.health
+    1
+    >>> ant2.attack(ant1)
+    goodbye...
+    >>> ant3 = CloneAnt()
+    >>> print(ant3)
+    CloneAnt with 2 damage and 2 health
+    """
         _____________________________________________________
 
         def __init__(self):
@@ -17,7 +33,7 @@
 
             ________________________________________________
 
-        def take_damage(self):
+        def take_damage(self, damage):
 
             ________________________________________________
 
@@ -64,7 +80,7 @@
     \end{solution}
 
 \question Nice! Now we can construct CloneAnts. Next, let's implement it so that our CloneAnt can interact with the world. 
-Implement the \texttt{attack} and \texttt{take\_damage} methods accordingly in the code block from the previous part. Assume \texttt{other} has a \texttt{take\_damage} method that you want to call in \texttt{attack}.
+Implement the \texttt{attack} and \texttt{take\_damage} methods accordingly in the code block from the previous part such that the doctests pass. Assume \texttt{other} has a \texttt{take\_damage} method that you want to call in \texttt{attack}.
 
 Quick dot notation check! What's another way to write \texttt{clone1.die()}, where \texttt{clone} is an instance of a \texttt{CloneAnt}?
 
@@ -76,12 +92,26 @@ CloneAnt.die(clone1)
 
 \question Debugging has been super annoying for this problem - to check my CloneAnt instance's health and damage, I've had to print out \texttt{clone.health} and \texttt{clone.damage} each time! I sure wish I could just \texttt{print(clone)} instead...
 
-Implement the \texttt{\_\_str\_\_} method in the code from part (a) so we can just print the clone object and get back its damage and health in a readable format (this is open ended, so you can return anything that makes sense to you! Just make sure it contains the instance's damage and health).
+Implement the \texttt{\_\_str\_\_} method in the code from part (a) so that it returns \texttt{"CloneAnt with x damage and y health"} Where x and y are its respective damage and health values.
 
 \question Uh oh, in our experimentation, we accidentally created a Mutant Clone Ant that, when attacked, loses attack damage rather than health! Mutant Clone Ants still are classified as Clone Ants, and have damage equal to the total amount of CloneAnts upon instantiation.. It should die when it has no more attack damage. Fill out the class below. Think about what methods we need to define, and which ones we don't.
-
+\newpage
 \begin{lstlisting}
 class MutantCloneAnt(_____):
+    """
+    >>> ant = CloneAnt()
+    >>> mutant = MutantCloneAnt()
+    >>> print(ant.damage, mutant.damage)
+    1 2
+    >>> ant.attack(mutant)
+    >>> mutant.damage
+    1
+    >>> mutant.health
+    2
+    >>> mutant2 = MutantCloneAnt() # We count total alive CloneAnts, including other Mutant ants
+    >>> mutant2.damage
+    3
+    """
 
 \end{lstlisting}
 
