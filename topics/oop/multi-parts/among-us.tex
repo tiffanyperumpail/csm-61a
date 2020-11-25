@@ -91,6 +91,8 @@ class Impostor(Crewmate):
     >>> red.add_tasks(["download data", "empty chute"])
     >>> print(Impostor.total_tasks)
     3
+    >>> red.enable_sabotages()
+    <generator ...>
     >>> red.kill(cyan)
     >>> print(cyan.alive)
     False
@@ -119,7 +121,7 @@ class Impostor(Crewmate):
     
     def sabotage(self):
         try:
-            ____________________________
+            next(self.s)
         ____________________________:
             print(____________________________)
     
@@ -131,12 +133,13 @@ class Crewmate:
     def add_tasks(self, tasks):
         self.tasks.extend(tasks)
         if ____________________________:
-            total_tasks += len(tasks)
+            Crewmate.total_tasks += len(tasks)
     
     def do_task(self):
+        assert _________________________
         if ____________________________:
             self.tasks.pop(0)
-            total_tasks -= 1
+            Crewmate.total_tasks -= 1
     . . .
 \end{lstlisting}
 \begin{solution}
@@ -166,12 +169,13 @@ class Crewmate:
     def add_tasks(self, tasks):
         self.tasks.extend(tasks)
         if not isinstance(self, Impostor):
-            total_tasks += len(tasks)
+            Crewmate.total_tasks += len(tasks)
     
     def do_task(self):
+        assert len(self.tasks) > 0, "{} crewmate has no more tasks left!".format(self.color)
         if not isinstance(self, Impostor):
             self.tasks.pop(0)
-            total_tasks -= 1
+            Crewmate.total_tasks -= 1
     . . .
 \end{lstlisting}
 \end{solution}

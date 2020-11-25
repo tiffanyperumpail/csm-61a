@@ -1,4 +1,4 @@
-\question For this part, just implement up to the \texttt{\_\_init\_\_} method and include any class attributes that might be helpful. Assume each CloneAnt starts off with 2 health. 
+\question For this part, just implement up through the \texttt{\_\_init\_\_} method and include any class attributes that might be helpful. Assume each CloneAnt starts off with 2 health. 
     \textbf{Note:} In the project, this would probably inherit from the Ant class, but let's make our own self-contained version!
     \newpage
     \begin{lstlisting}
@@ -41,6 +41,9 @@
 
             ________________________________________________
 
+
+         # continued on next page   
+
         def die(___________):
 
             ________________________________________________
@@ -67,7 +70,7 @@
 
         def take_damage(self, damage):
             self.health -= damage
-            if self.health < 0:
+            if self.health <= 0:
                 self.die()
 
         def die(self):
@@ -80,7 +83,7 @@
     \end{solution}
 
 \question Nice! Now we can construct CloneAnts. Next, let's implement it so that our CloneAnt can interact with the world. 
-Implement the \texttt{attack} and \texttt{take\_damage} methods accordingly in the code block from the previous part such that the doctests pass. Assume \texttt{other} has a \texttt{take\_damage} method that you want to call in \texttt{attack}.
+Implement the \texttt{attack}, \texttt{take\_damage}, and \texttt{die}methods accordingly in the code block from the previous part such that the doctests pass. Assume \texttt{other} has a \texttt{take\_damage} method that you want to call in \texttt{attack}.
 
 Quick dot notation check! What's another way to write \texttt{clone1.die()}, where \texttt{clone} is an instance of a \texttt{CloneAnt}?
 
@@ -120,7 +123,7 @@ class MutantCloneAnt(_____):
 class MutantCloneAnt(CloneAnt):
     def take_damage(self, damage):
         self.attack -= damage
-        if self.attack < 0:
+        if self.attack <= 0:
             self.die()
 \end{lstlisting}
 \end{solution}
