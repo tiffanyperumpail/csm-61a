@@ -9,10 +9,10 @@ class Crewmate:
     Pink crewmate has 3 tasks left.
     >>> lime.add_tasks(["fuel engines", "chart course", "prime shields"])
     >>> lime.do_task()
-    >>> [lime.do_task() for _ in range(3)]
-    AssertionError: Lime crewmate has no more tasks left!
     >>> lime.tasks
     ["chart course", "prime shields"]
+    >>> [lime.do_task() for _ in range(3)]
+    AssertionError: Lime crewmate has no more tasks left!
     >>> pink.alive
     True
     >>> print(Crewmate.crew_size)
