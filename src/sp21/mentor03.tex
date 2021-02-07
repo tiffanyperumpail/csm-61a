@@ -1,0 +1,55 @@
+\documentclass{exam}
+\usepackage{../commonheader}
+
+\discnumber{3}
+\title{Environment Diagrams and HOFs}
+\date{February 1 - February 3, 2021}
+
+\begin{document}
+\maketitle
+
+
+\begin{blocksection}
+\begin{guide}
+\textbf{Recommended Timeline}
+\begin{itemize}
+    \item New Frame Written Question - 2 mins
+    \item Swap - 8 mins
+    \item Joke - 7 mins
+    \item Higher Order Functions Mini-Lec + Written Question - 2 mins
+    \item Foobar - 6 mins
+    \item Apple - 4 mins
+    \item xyz - 8 mins
+    \item self-referencing - 10 mins
+\end{itemize}
+\end{guide}
+\end{blocksection}
+
+
+\section{Environment Diagrams}
+\begin{questions}
+\subimport{../../topics/environments/easy/}{new-frame.tex}
+\subimport{../../topics/functions-and-expressions/medium/env-diagram/}{swap.tex}
+\newpage
+\subimport{../../topics/functions-and-expressions/medium/env-diagram/}{joke.tex}
+\end{questions}
+
+\newpage
+\section{Higher-Order Functions}
+\begin{questions}
+\subimport{../../topics/hof/easy/}{why.tex}
+\subimport{../../topics/hof/easy/env-diagram/}{foobar.tex}
+\subimport{../../topics/hof/medium/env-diagram/}{apple.tex}
+
+\newpage
+\subimport{../../topics/hof/medium/}{xyz.tex}
+\subimport{../../topics/hof/hard/}{self-referencing.tex}
+
+\newpage
+\subimport{../../topics/hof/medium/}{mystery.tex}
+\subimport{../../topics/hof/medium/wwpd/}{mystery.tex}
+\clearpage
+
+\end{questions}
+
+\end{document}
