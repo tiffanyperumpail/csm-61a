@@ -1,34 +1,37 @@
-\begin{blocksection}
-\textbf{Counting Stars}
-\question Alice goes out to look for shooting stars every evening and records how many she sees each evening. One day, she decides to write a Scheme program to figure out how many times she has seen a certain number of stars, and she asks you for help. She wants to put in her record as a Scheme list and return a new list with the number of stars and the number of times she saw that number of stars. Write the program that would satisfy Alice’s request.
+\question \textbf{Counting Stars}
+Alice goes out to look for shooting stars every evening and records how many she sees each evening. One day, she decides to write a Scheme program to figure out how many times she has seen a certain number of stars, and she asks you for help. She wants to put in her record as a Scheme list and return a new list with the number of stars and the number of times she saw that number of stars. Write the program that would satisfy Alice’s request.
 
 \begin{lstlisting}
 ; Doctests
-> (counter 4 '(1 3 2 3 4 4 7) 0)
+> (counter 4 '(1 3 2 3 4 4 7))
 (4 2)
-> (counter 6 '(1 2 3 4 5) 0)
+> (counter 6 '(1 2 3 4 5))
 (6 0)
-> (counter 3 '(1 2 3 4 5) 0)
+> (counter 3 '(1 2 3 4 5))
 (3 1)
 
-(define (counter x lst count)
+(define (counter x lst)
+    (define (helper rest count)
 
 
 
 
-
+    )
+    
 )
 \end{lstlisting}
 
 \begin{solution}
 \begin{lstlisting}
-(define (counter x lst count)
-    (cond
-        ((equal? lst nil) (cons x (cons count nil))
-        ((equal? x (car lst)) (counter x (cdr lst) (+ count 1)))
-        (else (counter x (cdr lst) count))
+(define (counter x lst)
+    (define (helper rest count)
+        (cond
+            ((null? rest) (list x count))
+            ((equal? x (car rest)) (helper (cdr rest) (+ count 1)))
+            (else (helper (cdr rest) count))
+         )
     )
+    (helper lst 0)
 )
 \end{lstlisting}
 \end{solution}
-\end{blocksection}
