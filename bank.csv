@@ -1,0 +1,436 @@
+Topic,Difficulty,Problem,Env?,WWPD?,Link
+Binary,Easy,table,,,https://github.com/csmberkeley/csm-61a/master/topics/binary/easy/table.tex
+Binary,Text,binary_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/binary/text/binary_overview.tex
+Data Abstraction,Easy,elephants,,,https://github.com/csmberkeley/csm-61a/master/topics/data-abstraction/easy/elephants.tex
+Data Abstraction,Text,abstraction-summary,,,https://github.com/csmberkeley/csm-61a/master/topics/data-abstraction/text/abstraction-summary.tex
+Efficiency,Easy,belgian-waffle,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/belgian-waffle.tex
+Efficiency,Easy,jumpstart,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/jumpstart.tex
+Efficiency,Easy,medley,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/medley.tex
+Efficiency,Easy,one-two-three,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/one-two-three.tex
+Efficiency,Easy,pancake,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/pancake.tex
+Efficiency,Easy,simplify,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/simplify.tex
+Efficiency,Easy,strange-add,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/strange-add.tex
+Efficiency,Easy,toast,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/toast.tex
+Efficiency,Hard,hiya,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/hard/hiya.tex
+Efficiency,Medium,append-many,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/append-many.tex
+Efficiency,Medium,append,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/append.tex
+Efficiency,Medium,fast-exponentiation,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/fast-exponentiation.tex
+Efficiency,Medium,hailstone,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/hailstone.tex
+Efficiency,Medium,mysterious-loops,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/mysterious-loops.tex
+Efficiency,Medium,prepend,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/prepend.tex
+Efficiency,Medium,runtimes-p1,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/runtimes-p1.tex
+Efficiency,Medium,runtimes-p2,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/runtimes-p2.tex
+Efficiency,Medium,trees,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/trees.tex
+Efficiency,Medium,word-finder,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/word-finder.tex
+Efficiency,Text,intro,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/text/intro.tex
+Efficiency,Text,oog_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/text/oog_overview.tex
+Functions And Expressions,Easy,divisible-by-4,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/divisible-by-4.tex
+Functions And Expressions,Easy,funky-funcs,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/funky-funcs.tex
+Functions And Expressions,Easy,identify-expressions,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/identify-expressions.tex
+Functions And Expressions,Easy,primitive-vs-call,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/primitive-vs-call.tex
+Functions And Expressions,Easy,ab,x,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/env/ab.tex
+Functions And Expressions,Easy,abcd,x,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/env/abcd.tex
+Functions And Expressions,Easy,foobar,x,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/env/foobar.tex
+Functions And Expressions,Easy,new-frame,x,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/env/new-frame.tex
+Functions And Expressions,Easy,add-add,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/add-add.tex
+Functions And Expressions,Easy,add-sub-add,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/add-sub-add.tex
+Functions And Expressions,Easy,beep-boop-basic,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/beep-boop-basic.tex
+Functions And Expressions,Easy,fgf,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/fgf.tex
+Functions And Expressions,Easy,potpurri,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/potpurri.tex
+Functions And Expressions,Easy,printer,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/printer.tex
+Functions And Expressions,Easy,simple-add,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/simple-add.tex
+Functions And Expressions,Easy,square,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/square.tex
+Functions And Expressions,Easy,varargs-add,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/varargs-add.tex
+Functions And Expressions,Hard,digit_div,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/hard/digit_div.tex
+Functions And Expressions,Hard,min_fact,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/hard/min_fact.tex
+Functions And Expressions,Medium,compatible-types,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/compatible-types.tex
+Functions And Expressions,Medium,fgh,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/fgh.tex
+Functions And Expressions,Medium,find-max,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/find-max.tex
+Functions And Expressions,Medium,fizzbuzz,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/fizzbuzz.tex
+Functions And Expressions,Medium,identify-types,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/identify-types.tex
+Functions And Expressions,Medium,leap-year,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/leap-year.tex
+Functions And Expressions,Medium,pow-of-2,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/pow-of-2.tex
+Functions And Expressions,Medium,quick-maths,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/quick-maths.tex
+Functions And Expressions,Medium,abde,x,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/env/abde.tex
+Functions And Expressions,Medium,joke,x,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/env/joke.tex
+Functions And Expressions,Medium,snowflake,x,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/env/snowflake.tex
+Functions And Expressions,Medium,swap,x,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/env/swap.tex
+Functions And Expressions,Medium,argentina,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/argentina.tex
+Functions And Expressions,Medium,boom,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/boom.tex
+Functions And Expressions,Medium,happy-sad,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/happy-sad.tex
+Functions And Expressions,Medium,maths&quick-maths,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/maths&quick-maths.tex
+Functions And Expressions,Medium,print-add,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/print-add.tex
+Functions And Expressions,Medium,welcome,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/welcome.tex
+Functions And Expressions,Text,assume-imports,,,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/text/assume-imports.tex
+Generators,Easy,foo,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/easy/foo.tex
+Generators,Easy,iter-link,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/easy/iter-link.tex
+Generators,Easy,list-gen,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/easy/list-gen.tex
+Generators,Easy,run-length-decoder,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/easy/run-length-decoder.tex
+Generators,Medium,all-paths,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/all-paths.tex
+Generators,Medium,all-sums,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/all-sums.tex
+Generators,Medium,dfs-sum,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/dfs-sum.tex
+Generators,Medium,filter-gen,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/filter-gen.tex
+Generators,Medium,flat-map,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/flat-map.tex
+Generators,Medium,hailstone,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/hailstone.tex
+Generators,Medium,in-order,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/in-order.tex
+Generators,Medium,list-sort,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/list-sort.tex
+Generators,Medium,nondecreasing-paths,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/nondecreasing-paths.tex
+Generators,Medium,num-elems,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/num-elems.tex
+Generators,Medium,paths-to-sum,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/paths-to-sum.tex
+Generators,Medium,tree-sequence,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/tree-sequence.tex
+Generators,Text,generators_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/generators/text/generators_overview.tex
+HOF,Easy,compose,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/compose.tex
+HOF,Easy,def-to-lambda,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/def-to-lambda.tex
+HOF,Easy,make-adder,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/make-adder.tex
+HOF,Easy,make-interval,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/make-interval.tex
+HOF,Easy,make-skipper,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/make-skipper.tex
+HOF,Easy,print_n,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/print_n.tex
+HOF,Easy,what,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/what.tex
+HOF,Easy,why,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/why.tex
+HOF,Easy,barfoo,x,,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/env/barfoo.tex
+HOF,Easy,foobar,x,,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/env/foobar.tex
+HOF,Easy,make-adder,x,,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/env/make-adder.tex
+HOF,Hard,compound,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/hard/compound.tex
+HOF,Hard,decompose1,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/hard/decompose1.tex
+HOF,Hard,fox-says,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/hard/fox-says.tex
+HOF,Hard,self-referencing,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/hard/self-referencing.tex
+HOF,Medium,alternator,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/alternator.tex
+HOF,Medium,apply-n,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/apply-n.tex
+HOF,Medium,apply_n,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/apply_n.tex
+HOF,Medium,check-sum,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/check-sum.tex
+HOF,Medium,check_sum,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/check_sum.tex
+HOF,Medium,curry_forever,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/curry_forever.tex
+HOF,Medium,curry_forever_alt,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/curry_forever_alt.tex
+HOF,Medium,flip-flop,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/flip-flop.tex
+HOF,Medium,kill_the,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/kill_the.tex
+HOF,Medium,make-digit-remover,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/make-digit-remover.tex
+HOF,Medium,mystery,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/mystery.tex
+HOF,Medium,xyz,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/xyz.tex
+HOF,Medium,apple,x,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/env/apple.png
+HOF,Medium,apple,x,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/env/apple.tex
+HOF,Medium,inception,x,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/env/inception.png
+HOF,Medium,inception,x,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/env/inception.tex
+HOF,Medium,lambda-curry,x,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/env/lambda-curry.tex
+HOF,Medium,zebra,x,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/env/zebra.tex
+HOF,Medium,lambda-mul,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/wwpd/lambda-mul.tex
+HOF,Medium,lambda-wwpd,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/wwpd/lambda-wwpd.tex
+HOF,Medium,mystery,,,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/wwpd/mystery.tex
+Interpreters,Easy,eval-apply,,,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/easy/eval-apply.tex
+Interpreters,Easy,intro,,,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/easy/intro.tex
+Interpreters,Easy,sum-list,,,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/easy/sum-list.tex
+Interpreters,Easy,tail-calls,,,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/easy/tail-calls.tex
+Interpreters,Medium,eval-apply,,,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/medium/eval-apply.tex
+Interpreters,Medium,hack-pi,,,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/medium/hack-pi.tex
+Interview,,all-ways-skeleton,,,https://github.com/csmberkeley/csm-61a/master/topics/interview/all-ways-skeleton.tex
+Interview,,all-ways,,,https://github.com/csmberkeley/csm-61a/master/topics/interview/all-ways.tex
+Interview,,flip,,,https://github.com/csmberkeley/csm-61a/master/topics/interview/flip.tex
+Interview,,game,,,https://github.com/csmberkeley/csm-61a/master/topics/interview/game.tex
+Interview,,gen-bork,,,https://github.com/csmberkeley/csm-61a/master/topics/interview/gen-bork.tex
+Interview,,lambda-explain,,,https://github.com/csmberkeley/csm-61a/master/topics/interview/lambda-explain.tex
+Interview,,link-explain,,,https://github.com/csmberkeley/csm-61a/master/topics/interview/link-explain.tex
+Interview,,oop-bork,,,https://github.com/csmberkeley/csm-61a/master/topics/interview/oop-bork.tex
+Interview,,oop-gen,,,https://github.com/csmberkeley/csm-61a/master/topics/interview/oop-gen.tex
+Interview,,rot,,,https://github.com/csmberkeley/csm-61a/master/topics/interview/rot.tex
+Interview,,rotate,,,https://github.com/csmberkeley/csm-61a/master/topics/interview/rotate.tex
+Iterators,Easy,interleave,,,https://github.com/csmberkeley/csm-61a/master/topics/iterators/easy/interleave.tex
+Iterators,Easy,iterator-vs-iterable,,,https://github.com/csmberkeley/csm-61a/master/topics/iterators/easy/iterator-vs-iterable.tex
+Iterators,Easy,skipmachine,,,https://github.com/csmberkeley/csm-61a/master/topics/iterators/easy/skipmachine.tex
+Iterators,Medium,any-iterable,,,https://github.com/csmberkeley/csm-61a/master/topics/iterators/medium/accumulator/any-iterable.tex
+Iterators,Medium,code,,,https://github.com/csmberkeley/csm-61a/master/topics/iterators/medium/accumulator/code.tex
+Iterators,Medium,iterator-vs-iterable,,,https://github.com/csmberkeley/csm-61a/master/topics/iterators/medium/accumulator/iterator-vs-iterable.tex
+Linked Lists Adt,Easy,basics,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/easy/basics.tex
+Linked Lists Adt,Easy,draw,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/easy/draw.tex
+Linked Lists Adt,Easy,every-other,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/easy/every-other.tex
+Linked Lists Adt,Easy,get-item,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/easy/get-item.tex
+Linked Lists Adt,Easy,length,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/easy/length.tex
+Linked Lists Adt,Medium,merge,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/medium/merge.tex
+Linked Lists Adt,Medium,reverse,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/medium/reverse.tex
+Linked Lists Adt,Medium,subsequence-of,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/medium/subsequence-of.tex
+Linked Lists Adt,Text,implementation,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/text/implementation.tex
+Linked Lists Class,Easy,linkify,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/easy/linkify.tex
+Linked Lists Class,Easy,skip-no-mutate,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/easy/skip-no-mutate.tex
+Linked Lists Class,Easy,skip,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/easy/skip.tex
+Linked Lists Class,Easy,wwpd,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/easy/wwpd.tex
+Linked Lists Class,Medium,combine-two,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/combine-two.tex
+Linked Lists Class,Medium,double-link,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/double-link.tex
+Linked Lists Class,Medium,has-cycle,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/has-cycle.tex
+Linked Lists Class,Medium,reverse-inplace,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/reverse-inplace.tex
+Linked Lists Class,Medium,reverse,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/reverse.tex
+Linked Lists Class,Medium,shuffle,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/shuffle.tex
+Linked Lists Class,Medium,triforce,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/triforce.tex
+Linked Lists Class,Text,implementation,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/text/implementation.tex
+Linked Lists Class,Text,linked_list_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/text/linked_list_overview.tex
+Lists Immutable,Easy,all-primes,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/easy/all-primes.tex
+Lists Immutable,Easy,reverse,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/easy/env-diagram/reverse.tex
+Lists Immutable,Easy,simple-modified,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/easy/wwpd/simple-modified.tex
+Lists Immutable,Easy,simple,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/easy/wwpd/simple.tex
+Lists Immutable,Medium,comprehensions,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/medium/comprehensions.tex
+Lists Immutable,Medium,duplicate-list,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/medium/duplicate-list.tex
+Lists Immutable,Medium,gen-list,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/medium/gen-list.tex
+Lists Immutable,Medium,assignment-and-slicing,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/medium/wwpd/assignment-and-slicing.tex
+Lists Immutable,Text,list_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/text/list_overview.tex
+Lists Mutable,Easy,append-to-all,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/append-to-all.tex
+Lists Mutable,Easy,dogs,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/dogs.tex
+Lists Mutable,Easy,pompom,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/pompom.tex
+Lists Mutable,Easy,wwpd-mixed,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/wwpd-mixed.tex
+Lists Mutable,Easy,wwpd,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/wwpd.tex
+Lists Mutable,Easy,mystery,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/env-diagram/mystery.tex
+Lists Mutable,Easy,pokemon,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/env-diagram/pokemon.tex
+Lists Mutable,Easy,pompom,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/env-diagram/pompom.tex
+Lists Mutable,Medium,accumulate,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/accumulate.tex
+Lists Mutable,Medium,ballot-rigger,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/ballot-rigger.tex
+Lists Mutable,Medium,incredibles,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/incredibles.tex
+Lists Mutable,Medium,list-mutation,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/list-mutation.png
+Lists Mutable,Medium,wwpd-mutation-expanded,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/wwpd-mutation-expanded.tex
+Lists Mutable,Medium,wwpd-mutation,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/wwpd-mutation.tex
+Lists Mutable,Medium,bless-up,x,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/bless-up.tex
+Lists Mutable,Medium,env-prog,x,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/env-prog.tex
+Lists Mutable,Medium,fruit_loops,x,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/fruit_loops.png
+Lists Mutable,Medium,fruit_loops,x,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/fruit_loops.tex
+Lists Mutable,Medium,nice-ice-cream,x,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/nice-ice-cream.tex
+Lists Mutable,Medium,one-two-three,x,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/one-two-three.tex
+Lists Mutable,Medium,sing-a-song,x,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/sing-a-song.tex
+Lists Mutable,Medium,spooky-list,x,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/spooky-list.tex
+Lists Mutable,Medium,spooky-list_sol,x,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/spooky-list_sol.png
+Lists Mutable,Text,mutable-vs-immutable,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/text/mutable-vs-immutable.tex
+Lists Mutable,Text,mutation_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/text/mutation_overview.tex
+Lists Mutable,Text,pointers,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/text/pointers.PNG
+Lists Mutable,Text,pointers_mutate,,,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/text/pointers_mutate.PNG
+Macros,Easy,combine-num,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/easy/combine-num.tex
+Macros,Easy,macros-quasi,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/easy/macros-quasi.tex
+Macros,Easy,macros-wwsd,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/easy/macros-wwsd.tex
+Macros,Hard,cond-box,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/cond-box.PNG
+Macros,Hard,cond-questions,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/cond-questions.tex
+Macros,Hard,decorators,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/decorators.tex
+Macros,Hard,eval-and-check,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/eval-and-check.tex
+Macros,Hard,fns-and-macros,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/fns-and-macros.tex
+Macros,Hard,if-macro,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/if-macro.tex
+Macros,Hard,lambda-macro,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/lambda-macro.tex
+Macros,Hard,WWSD,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/WWSD.tex
+Macros,Hard,zero-cond,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/zero-cond.tex
+Macros,Medium,and-odds,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/medium/and-odds.tex
+Macros,Medium,apply-twice,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/medium/apply-twice.tex
+Macros,Medium,extended-if,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/medium/extended-if.tex
+Macros,Medium,if-macro,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/medium/if-macro.tex
+Macros,Medium,stream-macro,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/medium/stream-macro.tex
+Macros,Text,intro,,,https://github.com/csmberkeley/csm-61a/master/topics/macros/text/intro.tex
+Misc,,golden-rule-of-equals,,,https://github.com/csmberkeley/csm-61a/master/topics/misc/golden-rule-of-equals.tex
+Misc,,lost-on-the-moon,,,https://github.com/csmberkeley/csm-61a/master/topics/misc/lost-on-the-moon.tex
+Nonlocal,Easy,campanile,x,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/easy/env/campanile.tex
+Nonlocal,Easy,digits,x,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/easy/env/digits.tex
+Nonlocal,Easy,kale,x,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/easy/env/kale.tex
+Nonlocal,Easy,what,x,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/easy/env/what.tex
+Nonlocal,Medium,digit-getter,,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/digit-getter.tex
+Nonlocal,Medium,make-seq-generator,,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/make-seq-generator.tex
+Nonlocal,Medium,pingpong,,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/pingpong.tex
+Nonlocal,Medium,pingpongv2,,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/pingpongv2.tex
+Nonlocal,Medium,pingpongv3,,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/pingpongv3.tex
+Nonlocal,Medium,amongus,x,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/env/amongus.png
+Nonlocal,Medium,amongus,x,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/env/amongus.tex
+Nonlocal,Text,nonlocal_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/text/nonlocal_overview.tex
+OOP,Easy,adt,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/adt.tex
+OOP,Easy,dll,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/dll.tex
+OOP,Easy,star-wars,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/star-wars.tex
+OOP,Easy,team-baller,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/team-baller.tex
+OOP,Easy,foobar,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/wwpd/foobar.tex
+OOP,Easy,hoop,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/wwpd/hoop.tex
+OOP,Medium,build-a-bear,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/build-a-bear.tex
+OOP,Medium,flying-the-coop,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/flying-the-coop.tex
+OOP,Medium,food,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/food.tex
+OOP,Medium,musician copy,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/musician copy.tex
+OOP,Medium,musician,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/musician.tex
+OOP,Medium,photosynthesis,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/photosynthesis.tex
+OOP,Medium,pingpong,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/pingpong.tex
+OOP,Text,inheritance_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/text/inheritance_overview.tex
+OOP,Text,oop_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/text/oop_overview.tex
+OOP,Text,overview,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/text/overview.tex
+OOP,Text,representation_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/oop/text/representation_overview.tex
+Recursion,Easy,all-true,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/all-true.tex
+Recursion,Easy,call-during-def,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/call-during-def.tex
+Recursion,Easy,combine,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/combine.tex
+Recursion,Easy,identify-fib,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/identify-fib.tex
+Recursion,Easy,num-digits,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/num-digits.tex
+Recursion,Easy,three-parts,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/three-parts.tex
+Recursion,Easy,what,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/what.tex
+Recursion,Easy,wrong-factorial,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/wrong-factorial.tex
+Recursion,Medium,add-up,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/add-up.tex
+Recursion,Medium,coin-game,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/coin-game.tex
+Recursion,Medium,collapse,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/collapse.tex
+Recursion,Medium,combine-to-61,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/combine-to-61.tex
+Recursion,Medium,combine,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/combine.tex
+Recursion,Medium,copy-machine1,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/copy-machine1.tex
+Recursion,Medium,copy-machine2,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/copy-machine2.tex
+Recursion,Medium,fizzbuzz,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/fizzbuzz.tex
+Recursion,Medium,gibbonacci,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/gibbonacci.tex
+Recursion,Medium,is-sorted,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/is-sorted.tex
+Recursion,Medium,make-change,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/make-change.tex
+Recursion,Medium,mario-number,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/mario-number.tex
+Recursion,Medium,max-subset-sum,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/max-subset-sum.tex
+Recursion,Medium,midterm,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/midterm.tex
+Recursion,Medium,num-nums,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/num-nums.tex
+Recursion,Medium,positionizer,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/positionizer.tex
+Recursion,Medium,replace,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/replace.tex
+Recursion,Medium,root-subtraction,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/root-subtraction.tex
+Recursion,Medium,search-level,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/search-level.tex
+Recursion,Medium,subset-sum,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/subset-sum.tex
+Recursion,Medium,subsets,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/subsets.tex
+Recursion,Medium,sum-prime-digits,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/sum-prime-digits.tex
+Recursion,Medium,foobar1,x,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/env/foobar1.png
+Recursion,Medium,foobar1,x,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/env/foobar1.tex
+Recursion,Medium,foobar1_new,x,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/env/foobar1_new.PNG
+Recursion,Medium,foobar2,x,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/env/foobar2.png
+Recursion,Medium,foobar2,x,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/env/foobar2.tex
+Recursion,Medium,foobar3,x,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/env/foobar3.png
+Recursion,Medium,foobar3,x,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/env/foobar3.tex
+Recursion,Text,introduction,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/text/introduction.tex
+Recursion,Text,recursion_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/text/recursion_overview.tex
+Recursion,Text,tree_recursion_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/recursion/text/tree_recursion_overview.tex
+Scheme,Easy,hailstone,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/hailstone.tex
+Scheme,Easy,let-issues,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/let-issues.tex
+Scheme,Easy,scoping-env-diag,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/scoping-env-diag.tex
+Scheme,Easy,scoping-intro,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/scoping-intro.tex
+Scheme,Easy,sixty-ones,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/sixty-ones.tex
+Scheme,Easy,basics,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/basics.tex
+Scheme,Easy,boom,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/boom.tex
+Scheme,Easy,define-eval,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/define-eval.tex
+Scheme,Easy,define,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/define.tex
+Scheme,Easy,dots,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/dots.tex
+Scheme,Easy,if-and-or,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/if-and-or.tex
+Scheme,Easy,lists,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/lists.tex
+Scheme,Easy,lists_nodots,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/lists_nodots.tex
+Scheme,Easy,scheme_lists_1,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/scheme_lists_1.png
+Scheme,Easy,scheme_lists_2,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/scheme_lists_2.png
+Scheme,Easy,scheme_lists_3,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/scheme_lists_3.png
+Scheme,Easy,scheme_lists_4,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/scheme_lists_4.png
+Scheme,Easy,scheme_lists_5,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/scheme_lists_5.png
+Scheme,Easy,scheme_lists_6,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/scheme_lists_6.png
+Scheme,Easy,special-forms,,x,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/special-forms.tex
+Scheme,Hard,increasing-checker,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/hard/increasing-checker.tex
+Scheme,Hard,max-depth,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/hard/max-depth.tex
+Scheme,Medium,add-to-all,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/add-to-all.tex
+Scheme,Medium,apply-n,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/apply-n.tex
+Scheme,Medium,argmax,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/argmax.tex
+Scheme,Medium,backwards-sum,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/backwards-sum.tex
+Scheme,Medium,binary-list,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/binary-list.tex
+Scheme,Medium,decay,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/decay.tex
+Scheme,Medium,double-link,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/double-link.tex
+Scheme,Medium,find-bugs,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/find-bugs.tex
+Scheme,Medium,guardians-and-asteroids,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/guardians-and-asteroids.tex
+Scheme,Medium,insert,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/insert.tex
+Scheme,Medium,is-prefix,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/is-prefix.tex
+Scheme,Medium,lists-hard,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/lists-hard.tex
+Scheme,Medium,lists,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/lists.tex
+Scheme,Medium,quicksort,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/quicksort.tex
+Scheme,Medium,reverse-map,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/reverse-map.tex
+Scheme,Medium,reverse,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/reverse.tex
+Scheme,Medium,run,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/run.tex
+Scheme,Medium,shuffle,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/shuffle.tex
+Scheme,Medium,skip-list,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/skip-list.tex
+Scheme,Medium,skip-reduce,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/skip-reduce.tex
+Scheme,Medium,sublists,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/sublists.tex
+Scheme,Medium,waldo,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/waldo.tex
+Scheme,Medium,well-formed,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/well-formed.tex
+Scheme,Text,lists,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/text/lists.tex
+Scheme,Text,online-interpreter,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/text/online-interpreter.tex
+Scheme,Text,scheme-basics-overview,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/text/scheme-basics-overview.tex
+Scheme,Text,scheme-lists-overview,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/text/scheme-lists-overview.tex
+Scheme,Text,special-forms,,,https://github.com/csmberkeley/csm-61a/master/topics/scheme/text/special-forms.tex
+SQL,Easy,elevator,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/easy/circus/elevator.tex
+SQL,Easy,text,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/easy/circus/text.tex
+SQL,Easy,trucks,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/easy/circus/trucks.tex
+SQL,Hard,mod-seven,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/hard/mod-seven.tex
+SQL,Medium,most-pieces-per-price,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/easy/most-pieces-per-price.tex
+SQL,Medium,most-populated-species,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/easy/most-populated-species.tex
+SQL,Medium,number-fish,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/easy/number-fish.tex
+SQL,Medium,competitor,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/medium/competitor.tex
+SQL,Medium,undercut,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/medium/undercut.tex
+SQL,Medium,yearly-pop-mutative,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/medium/yearly-pop-mutative.tex
+SQL,Medium,yearly-pop,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/medium/yearly-pop.tex
+SQL,Medium,competitor,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/tables/competitor.tex
+SQL,Medium,fish,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/tables/fish.tex
+SQL,Medium,competitor,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/text/competitor.tex
+SQL,Medium,intro,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/text/intro.tex
+SQL,Medium,create-table,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/create-table.tex
+SQL,Medium,table,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/table.tex
+SQL,Medium,alphabetical,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/easy/alphabetical.tex
+SQL,Medium,food-and-color-if-language-not-python,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/easy/food-and-color-if-language-not-python.tex
+SQL,Medium,food-if-color-green,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/easy/food-if-color-green.tex
+SQL,Medium,pairs-same-language,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/medium/pairs-same-language.tex
+SQL,Medium,text,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/outfits/text.tex
+SQL,Medium,lucky-shirt,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/outfits/medium/lucky-shirt.tex
+SQL,Medium,sum-scores,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/outfits/medium/sum-scores.tex
+SQL,Medium,grades,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/outfits/tables/grades.tex
+SQL,Medium,outfits,,,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/outfits/tables/outfits.tex
+Streams Python,Easy,double-naturals,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/easy/double-naturals.tex
+Streams Python,Easy,factorial-stream,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/easy/factorial-stream.tex
+Streams Python,Easy,interleave,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/easy/interleave.tex
+Streams Python,Easy,wwpd,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/easy/wwpd.tex
+Streams Python,Medium,cycle-ith,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/medium/cycle-ith.tex
+Streams Python,Medium,unique-stream,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/medium/unique-stream.tex
+Streams Python,Text,docstrings,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/text/docstrings.tex
+Streams Python,Text,implementation,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/text/implementation.tex
+Streams Scheme,Easy,add-streams,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/easy/add-streams.tex
+Streams Scheme,Easy,double-naturals,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/easy/double-naturals.tex
+Streams Scheme,Easy,interleave,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/easy/interleave.tex
+Streams Scheme,Easy,intro,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/easy/intro.tex
+Streams Scheme,Easy,wwsd,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/easy/wwsd.tex
+Streams Scheme,Hard,pairer,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/hard/pairer.tex
+Streams Scheme,Medium,coalesce,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/medium/coalesce.tex
+Streams Scheme,Medium,puns,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/medium/puns.tex
+Streams Scheme,Medium,truthful-stream,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/medium/truthful-stream.tex
+Streams Scheme,Text,basic,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/text/basic.tex
+Streams Scheme,Text,doctest-helpers,,,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/text/doctest-helpers.tex
+Tail Recursion,Easy,intro,,,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/easy/intro.tex
+Tail Recursion,Medium,count-instance,,,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/medium/count-instance.tex
+Tail Recursion,Medium,filter-nested,,,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/medium/filter-nested.tex
+Tail Recursion,Medium,filter,,,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/medium/filter.tex
+Tail Recursion,Medium,slice,,,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/medium/slice.tex
+Tail Recursion,Medium,sum-list,,,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/medium/sum-list.tex
+Tail Recursion,Text,intro,,,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/text/intro.tex
+Trees Adt,Easy,draw-tree,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/easy/draw-tree.tex
+Trees Adt,Easy,diagram,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/easy/construct-tree/diagram.tex
+Trees Adt,Easy,get-item,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/easy/construct-tree/get-item.tex
+Trees Adt,Easy,question,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/easy/construct-tree/question.tex
+Trees Adt,Easy,wwpd,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/easy/construct-tree/wwpd.tex
+Trees Adt,Hard,contains-n,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/hard/contains-n.tex
+Trees Adt,Hard,scrabble,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/hard/scrabble.tex
+Trees Adt,Medium,all-paths,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/all-paths.tex
+Trees Adt,Medium,count,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/count.tex
+Trees Adt,Medium,even-square-tree,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/even-square-tree.tex
+Trees Adt,Medium,factor-tree copy,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/factor-tree copy.tex
+Trees Adt,Medium,factor-tree,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/factor-tree.tex
+Trees Adt,Medium,replace-x,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/replace-x.tex
+Trees Adt,Medium,tree-sum,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/tree-sum.tex
+Trees Adt,Medium,correct-tree,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/min-heap/correct-tree.tex
+Trees Adt,Medium,problem,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/min-heap/problem.tex
+Trees Adt,Medium,wrong-tree,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/min-heap/wrong-tree.tex
+Trees Adt,Medium,after,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/prune/after.tex
+Trees Adt,Medium,before,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/prune/before.tex
+Trees Adt,Medium,problem,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/prune/problem.tex
+Trees Adt,Text,draw-tree,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/text/draw-tree.tex
+Trees Adt,Text,implementation,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/text/implementation.tex
+Trees Adt,Text,tree_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/text/tree_overview.tex
+Trees Class,Bst,sum-in-range,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/bst/medium/sum-in-range.tex
+Trees Class,Bst,complex,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/bst/medium/is-symmetric/complex.tex
+Trees Class,Bst,question,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/bst/medium/is-symmetric/question.tex
+Trees Class,Bst,simple,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/bst/medium/is-symmetric/simple.tex
+Trees Class,Bst,implementation,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/bst/text/implementation.tex
+Trees Class,Easy,height,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/easy/height.tex
+Trees Class,Easy,tree-sum,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/easy/tree-sum.tex
+Trees Class,Hard,contains-n,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/hard/contains-n.tex
+Trees Class,Hard,code,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/hard/eert/code.tex
+Trees Class,Hard,decrypted,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/hard/eert/decrypted.png
+Trees Class,Hard,original,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/hard/eert/original.png
+Trees Class,Hard,question,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/hard/eert/question.tex
+Trees Class,Medium,delete-path-duplicates,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/delete-path-duplicates.tex
+Trees Class,Medium,double-tree,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/double-tree.tex
+Trees Class,Medium,factor-tree,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/factor-tree.tex
+Trees Class,Medium,factor_tree_20,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/factor_tree_20.png
+Trees Class,Medium,remove-nodes,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/remove-nodes.tex
+Trees Class,Medium,replace-leaves-sum,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/replace-leaves-sum.tex
+Trees Class,Medium,weighted-tree,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/weighted-tree.tex
+Trees Class,Medium,after,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/double-tree-needs-mutation/after.tex
+Trees Class,Medium,before,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/double-tree-needs-mutation/before.tex
+Trees Class,Medium,question,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/double-tree-needs-mutation/question.tex
+Trees Class,Text,adt_vs_class_overview,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/text/adt_vs_class_overview.tex
+Trees Class,Text,implementation,,,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/text/implementation.tex
