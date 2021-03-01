@@ -55,28 +55,28 @@ def explore(topicfolder="topics", srcfolder="src", out="bank.csv"):
                     root = root.replace("\\", "/")
                     subfolders = root.split("/")
                     topic = re.sub('[_-]', ' ', subfolders[1]).title()
-                    if topic.lower() in ['sql', 'oop', 'hof']:
+                    if topic.lower() in ['sql', 'oop', 'hof', 'bst']:
                         topic = topic.upper()
                     # difficulty
                     difficulty = ''
                     if len(subfolders) > 2:
                         difficulty = subfolders[2].capitalize()
                     # type
-                    if len(subfolders) > 3:
+                    if len(subfolders) > 3 and subfolders[3] in ['env', 'env-diagram', 'wwpd', 'wwsd']:
                         ptype = subfolders[3]
                     else:
                         ptype = "coding"
-                    
+
                     # has guide
                     with open(root+"/"+filename, 'r', encoding="UTF-8") as pfile:
                         text = pfile.read()
                         has_guide = "guide" in text
 
                     # build url
-                    link = "/".join(["https://github.com/csmberkeley/csm-61a/master", root, filename])
+                    link = "/".join(["https://raw.githubusercontent.com/csmberkeley/csm-61a/org", root, filename])
 
                     # find past published
-                    past_published = ",".join([p for p in published if problem in published[p]])
+                    past_published = ",".join(reversed([p for p in published if problem in published[p]]))
 
                     # write row
                     wtr.writerow([topic, difficulty, problem, ptype, link, has_guide, past_published])

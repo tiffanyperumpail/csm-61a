@@ -1,414 +1,414 @@
 Topic,Difficulty,Problem,Type,Link,Guide?,Published
-Binary,Easy,table,coding,https://github.com/csmberkeley/csm-61a/master/topics/binary/easy/table.tex,True,"fa17-week15,fa17-week6,fa17-week8,fa18-week6,fa18-week7,sp18-week14,sp18-week6,sp18-week7,sp18-week9,sp18-week9_extra"
-Binary,Text,binary_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/binary/text/binary_overview.tex,False,
-Data Abstraction,Easy,elephants,coding,https://github.com/csmberkeley/csm-61a/master/topics/data-abstraction/easy/elephants.tex,True,"fa17-week5,fa17-week6,fa18-week5,sp18-week5"
-Data Abstraction,Text,abstraction-summary,coding,https://github.com/csmberkeley/csm-61a/master/topics/data-abstraction/text/abstraction-summary.tex,True,
-Efficiency,Easy,belgian-waffle,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/belgian-waffle.tex,True,
-Efficiency,Easy,jumpstart,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/jumpstart.tex,True,"fa17-week7,sp18-week7-old"
-Efficiency,Easy,medley,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/medley.tex,False,"fa17-week7,sp18-week7-old,sp18-week8"
-Efficiency,Easy,one-two-three,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/one-two-three.tex,False,sp18-week14
-Efficiency,Easy,pancake,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/pancake.tex,False,
-Efficiency,Easy,simplify,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/simplify.tex,False,
-Efficiency,Easy,strange-add,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/strange-add.tex,False,
-Efficiency,Easy,toast,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/easy/toast.tex,False,
-Efficiency,Hard,hiya,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/hard/hiya.tex,False,
-Efficiency,Medium,append-many,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/append-many.tex,False,
-Efficiency,Medium,append,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/append.tex,False,"fa17-week11,fa17-week15"
-Efficiency,Medium,fast-exponentiation,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/fast-exponentiation.tex,False,"fa17-week7,fa17-week8,sp18-week7-old,sp18-week9_extra"
-Efficiency,Medium,hailstone,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/hailstone.tex,False,"fa17-week10,fa17-week13,fa17-week7,sp18-week10,sp18-week13,sp18-week7-old,sp18-week8,su18-week10,su19-week10"
-Efficiency,Medium,mysterious-loops,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/mysterious-loops.tex,False,"fa17-week7,fa17-week8,sp18-week7-old,sp18-week9_extra"
-Efficiency,Medium,prepend,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/prepend.tex,False,
-Efficiency,Medium,runtimes-p1,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/runtimes-p1.tex,False,
-Efficiency,Medium,runtimes-p2,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/runtimes-p2.tex,False,
-Efficiency,Medium,trees,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/trees.tex,False,"fa17-week13,fa17-week7,fa18-week6,sp18-week13,sp18-week14,sp18-week6,sp18-week7-old,sp18-week8,sp18-week9"
-Efficiency,Medium,word-finder,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/medium/word-finder.tex,False,
-Efficiency,Text,intro,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/text/intro.tex,False,"fa17-week4,fa17-week5,sp18-week11,sp18-week12,sp18-week14,sp18-week4"
-Efficiency,Text,oog_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/efficiency/text/oog_overview.tex,True,
-Functions And Expressions,Easy,divisible-by-4,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/divisible-by-4.tex,False,
-Functions And Expressions,Easy,funky-funcs,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/funky-funcs.tex,False,
-Functions And Expressions,Easy,identify-expressions,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/identify-expressions.tex,False,
-Functions And Expressions,Easy,primitive-vs-call,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/primitive-vs-call.tex,False,
-Functions And Expressions,Easy,ab,env,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/env/ab.tex,False,"fa17-week11,fa17-week12,fa17-week13,fa17-week15,fa17-week5,fa17-week6,fa17-week8,fa18-week5,fa18-week6,fa18-week7,sp18-week13,sp18-week14,sp18-week5,sp18-week6,sp18-week7,sp18-week9,sp18-week9_extra"
-Functions And Expressions,Easy,abcd,env,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/env/abcd.tex,False,
-Functions And Expressions,Easy,foobar,env,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/env/foobar.tex,False,"fa17-week4,sp18-week4"
-Functions And Expressions,Easy,new-frame,env,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/env/new-frame.tex,False,
-Functions And Expressions,Easy,add-add,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/add-add.tex,False,
-Functions And Expressions,Easy,add-sub-add,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/add-sub-add.tex,False,
-Functions And Expressions,Easy,beep-boop-basic,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/beep-boop-basic.tex,False,
-Functions And Expressions,Easy,fgf,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/fgf.tex,False,
-Functions And Expressions,Easy,potpurri,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/potpurri.tex,False,
-Functions And Expressions,Easy,printer,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/printer.tex,False,
-Functions And Expressions,Easy,simple-add,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/simple-add.tex,False,
-Functions And Expressions,Easy,square,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/square.tex,False,
-Functions And Expressions,Easy,varargs-add,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/easy/wwpd/varargs-add.tex,False,
-Functions And Expressions,Hard,digit_div,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/hard/digit_div.tex,False,
-Functions And Expressions,Hard,min_fact,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/hard/min_fact.tex,False,
-Functions And Expressions,Medium,compatible-types,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/compatible-types.tex,False,
-Functions And Expressions,Medium,fgh,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/fgh.tex,False,
-Functions And Expressions,Medium,find-max,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/find-max.tex,False,
-Functions And Expressions,Medium,fizzbuzz,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/fizzbuzz.tex,False,
-Functions And Expressions,Medium,identify-types,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/identify-types.tex,False,
-Functions And Expressions,Medium,leap-year,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/leap-year.tex,False,
-Functions And Expressions,Medium,pow-of-2,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/pow-of-2.tex,False,
-Functions And Expressions,Medium,quick-maths,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/quick-maths.tex,False,
-Functions And Expressions,Medium,abde,env,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/env/abde.tex,False,
-Functions And Expressions,Medium,joke,env,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/env/joke.tex,True,
-Functions And Expressions,Medium,snowflake,env,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/env/snowflake.tex,False,
-Functions And Expressions,Medium,swap,env,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/env/swap.tex,True,
-Functions And Expressions,Medium,argentina,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/argentina.tex,False,
-Functions And Expressions,Medium,boom,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/boom.tex,False,fa17-week11
-Functions And Expressions,Medium,happy-sad,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/happy-sad.tex,False,
-Functions And Expressions,Medium,maths&quick-maths,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/maths&quick-maths.tex,False,
-Functions And Expressions,Medium,print-add,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/print-add.tex,False,
-Functions And Expressions,Medium,welcome,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/medium/wwpd/welcome.tex,False,
-Functions And Expressions,Text,assume-imports,coding,https://github.com/csmberkeley/csm-61a/master/topics/functions-and-expressions/text/assume-imports.tex,False,
-Generators,Easy,foo,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/easy/foo.tex,True,"fa17-week11,fa17-week13,fa17-week15,fa17-week4,fa18-week7,sp18-week13,sp18-week14,sp18-week4"
-Generators,Easy,iter-link,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/easy/iter-link.tex,True,
-Generators,Easy,list-gen,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/easy/list-gen.tex,True,
-Generators,Easy,run-length-decoder,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/easy/run-length-decoder.tex,False,fa17-week15
-Generators,Medium,all-paths,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/all-paths.tex,False,
-Generators,Medium,all-sums,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/all-sums.tex,False,
-Generators,Medium,dfs-sum,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/dfs-sum.tex,False,
-Generators,Medium,filter-gen,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/filter-gen.tex,True,fa18-week7
-Generators,Medium,flat-map,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/flat-map.tex,False,
-Generators,Medium,hailstone,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/hailstone.tex,False,"fa17-week10,fa17-week13,fa17-week7,sp18-week10,sp18-week13,sp18-week7-old,sp18-week8,su18-week10,su19-week10"
-Generators,Medium,in-order,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/in-order.tex,False,
-Generators,Medium,list-sort,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/list-sort.tex,False,
-Generators,Medium,nondecreasing-paths,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/nondecreasing-paths.tex,True,
-Generators,Medium,num-elems,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/num-elems.tex,True,
-Generators,Medium,paths-to-sum,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/paths-to-sum.tex,False,
-Generators,Medium,tree-sequence,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/medium/tree-sequence.tex,True,"fa17-week13,fa18-week7,sp18-week13"
-Generators,Text,generators_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/generators/text/generators_overview.tex,False,
-HOF,Easy,compose,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/compose.tex,False,
-HOF,Easy,def-to-lambda,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/def-to-lambda.tex,False,
-HOF,Easy,make-adder,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/make-adder.tex,False,
-HOF,Easy,make-interval,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/make-interval.tex,False,
-HOF,Easy,make-skipper,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/make-skipper.tex,False,"fa17-week4,sp18-week4"
-HOF,Easy,print_n,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/print_n.tex,False,
-HOF,Easy,what,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/what.tex,False,"fa17-week11,fa17-week13,fa17-week15,sp18-week13,sp18-week9_extra"
-HOF,Easy,why,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/why.tex,False,fa17-week12
-HOF,Easy,barfoo,env,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/env/barfoo.tex,False,
-HOF,Easy,foobar,env,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/env/foobar.tex,True,"fa17-week4,sp18-week4"
-HOF,Easy,make-adder,env,https://github.com/csmberkeley/csm-61a/master/topics/hof/easy/env/make-adder.tex,False,
-HOF,Hard,compound,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/hard/compound.tex,False,
-HOF,Hard,decompose1,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/hard/decompose1.tex,False,
-HOF,Hard,fox-says,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/hard/fox-says.tex,False,
-HOF,Hard,self-referencing,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/hard/self-referencing.tex,False,
-HOF,Medium,alternator,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/alternator.tex,False,
-HOF,Medium,apply-n,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/apply-n.tex,False,"su18-week10,su19-week10"
-HOF,Medium,apply_n,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/apply_n.tex,False,
-HOF,Medium,check-sum,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/check-sum.tex,False,
-HOF,Medium,check_sum,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/check_sum.tex,False,
-HOF,Medium,curry_forever,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/curry_forever.tex,False,
-HOF,Medium,curry_forever_alt,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/curry_forever_alt.tex,False,
-HOF,Medium,flip-flop,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/flip-flop.tex,False,
-HOF,Medium,kill_the,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/kill_the.tex,False,
-HOF,Medium,make-digit-remover,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/make-digit-remover.tex,False,
-HOF,Medium,mystery,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/mystery.tex,False,"fa17-week4,sp18-week4,sp18-week7"
-HOF,Medium,xyz,coding,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/xyz.tex,False,
-HOF,Medium,apple,env,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/env/apple.tex,False,
-HOF,Medium,inception,env,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/env/inception.tex,False,
-HOF,Medium,lambda-curry,env,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/env/lambda-curry.tex,False,
-HOF,Medium,zebra,env,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/env/zebra.tex,False,
-HOF,Medium,lambda-mul,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/wwpd/lambda-mul.tex,False,
-HOF,Medium,lambda-wwpd,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/wwpd/lambda-wwpd.tex,False,
-HOF,Medium,mystery,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/hof/medium/wwpd/mystery.tex,False,"fa17-week4,sp18-week4,sp18-week7"
-Interpreters,Easy,eval-apply,coding,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/easy/eval-apply.tex,False,"fa17-week12,sp18-week12"
-Interpreters,Easy,intro,coding,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/easy/intro.tex,True,"fa17-week4,fa17-week5,sp18-week11,sp18-week12,sp18-week14,sp18-week4"
-Interpreters,Easy,sum-list,coding,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/easy/sum-list.tex,False,fa17-week12
-Interpreters,Easy,tail-calls,coding,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/easy/tail-calls.tex,False,
-Interpreters,Medium,eval-apply,coding,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/medium/eval-apply.tex,True,"fa17-week12,sp18-week12"
-Interpreters,Medium,hack-pi,coding,https://github.com/csmberkeley/csm-61a/master/topics/interpreters/medium/hack-pi.tex,False,fa17-week12
-Interview,,all-ways-skeleton,coding,https://github.com/csmberkeley/csm-61a/master/topics/interview/all-ways-skeleton.tex,False,
-Interview,,all-ways,coding,https://github.com/csmberkeley/csm-61a/master/topics/interview/all-ways.tex,False,
-Interview,,flip,coding,https://github.com/csmberkeley/csm-61a/master/topics/interview/flip.tex,False,
-Interview,,game,coding,https://github.com/csmberkeley/csm-61a/master/topics/interview/game.tex,False,
-Interview,,gen-bork,coding,https://github.com/csmberkeley/csm-61a/master/topics/interview/gen-bork.tex,False,
-Interview,,lambda-explain,coding,https://github.com/csmberkeley/csm-61a/master/topics/interview/lambda-explain.tex,False,
-Interview,,link-explain,coding,https://github.com/csmberkeley/csm-61a/master/topics/interview/link-explain.tex,False,
-Interview,,oop-bork,coding,https://github.com/csmberkeley/csm-61a/master/topics/interview/oop-bork.tex,False,
-Interview,,oop-gen,coding,https://github.com/csmberkeley/csm-61a/master/topics/interview/oop-gen.tex,False,
-Interview,,rot,coding,https://github.com/csmberkeley/csm-61a/master/topics/interview/rot.tex,True,
-Interview,,rotate,coding,https://github.com/csmberkeley/csm-61a/master/topics/interview/rotate.tex,False,
-Iterators,Easy,interleave,coding,https://github.com/csmberkeley/csm-61a/master/topics/iterators/easy/interleave.tex,False,"fa17-week13,sp18-week13"
-Iterators,Easy,iterator-vs-iterable,coding,https://github.com/csmberkeley/csm-61a/master/topics/iterators/easy/iterator-vs-iterable.tex,False,fa17-week12
-Iterators,Easy,skipmachine,coding,https://github.com/csmberkeley/csm-61a/master/topics/iterators/easy/skipmachine.tex,False,sp18-week14
-Iterators,Medium,any-iterable,accumulator,https://github.com/csmberkeley/csm-61a/master/topics/iterators/medium/accumulator/any-iterable.tex,False,
-Iterators,Medium,code,accumulator,https://github.com/csmberkeley/csm-61a/master/topics/iterators/medium/accumulator/code.tex,False,"fa17-week11,fa17-week13,fa17-week15,sp18-week13"
-Iterators,Medium,iterator-vs-iterable,accumulator,https://github.com/csmberkeley/csm-61a/master/topics/iterators/medium/accumulator/iterator-vs-iterable.tex,False,fa17-week12
-Linked Lists Adt,Easy,basics,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/easy/basics.tex,False,"fa17-week10,sp18-week10,su18-week10,su19-week10"
-Linked Lists Adt,Easy,draw,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/easy/draw.tex,False,"fa17-week12,fa17-week15,fa17-week7,fa18-week6,sp18-week6,sp18-week7-old"
-Linked Lists Adt,Easy,every-other,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/easy/every-other.tex,False,
-Linked Lists Adt,Easy,get-item,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/easy/get-item.tex,False,"fa17-week7,fa18-week6,sp18-week6,sp18-week7-old"
-Linked Lists Adt,Easy,length,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/easy/length.tex,False,fa17-week15
-Linked Lists Adt,Medium,merge,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/medium/merge.tex,False,
-Linked Lists Adt,Medium,reverse,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/medium/reverse.tex,False,"fa17-week6,fa17-week9,fa18-week6,sp18-week6,sp18-week9"
-Linked Lists Adt,Medium,subsequence-of,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/medium/subsequence-of.tex,False,
-Linked Lists Adt,Text,implementation,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_adt/text/implementation.tex,False,"fa17-week15,fa17-week7,fa17-week9,fa18-week6,sp18-week6,sp18-week7-old,sp18-week9"
-Linked Lists Class,Easy,linkify,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/easy/linkify.tex,False,
-Linked Lists Class,Easy,skip-no-mutate,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/easy/skip-no-mutate.tex,True,"fa17-week9,sp18-week9"
-Linked Lists Class,Easy,skip,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/easy/skip.tex,True,"fa17-week4,fa17-week9,fa18-week6,sp18-week14,sp18-week4,sp18-week6,sp18-week9"
-Linked Lists Class,Easy,wwpd,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/easy/wwpd.tex,True,"fa17-week4,fa17-week6,fa17-week7,fa17-week8,fa17-week9,fa18-week6,sp18-week4,sp18-week6,sp18-week7-old,sp18-week7,sp18-week8,sp18-week9,sp18-week9_extra"
-Linked Lists Class,Medium,combine-two,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/combine-two.tex,False,
-Linked Lists Class,Medium,double-link,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/double-link.tex,False,"sp18-week14,su18-week11,su19-week11"
-Linked Lists Class,Medium,has-cycle,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/has-cycle.tex,True,fa17-week9
-Linked Lists Class,Medium,reverse-inplace,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/reverse-inplace.tex,False,fa17-week9
-Linked Lists Class,Medium,reverse,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/reverse.tex,False,"fa17-week6,fa17-week9,fa18-week6,sp18-week6,sp18-week9"
-Linked Lists Class,Medium,shuffle,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/shuffle.tex,False,"fa17-week15,sp18-week14"
-Linked Lists Class,Medium,triforce,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/medium/triforce.tex,False,
-Linked Lists Class,Text,implementation,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/text/implementation.tex,False,"fa17-week15,fa17-week7,fa17-week9,fa18-week6,sp18-week6,sp18-week7-old,sp18-week9"
-Linked Lists Class,Text,linked_list_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/linked-lists_class/text/linked_list_overview.tex,True,
-Lists Immutable,Easy,all-primes,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/easy/all-primes.tex,True,"fa17-week6,fa18-week6,sp18-week6"
-Lists Immutable,Easy,reverse,env-diagram,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/easy/env-diagram/reverse.tex,False,"fa17-week6,fa17-week9,fa18-week6,sp18-week6,sp18-week9"
-Lists Immutable,Easy,simple-modified,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/easy/wwpd/simple-modified.tex,True,
-Lists Immutable,Easy,simple,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/easy/wwpd/simple.tex,False,"fa17-week6,sp18-week6"
-Lists Immutable,Medium,comprehensions,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/medium/comprehensions.tex,False,sp18-week9_extra
-Lists Immutable,Medium,duplicate-list,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/medium/duplicate-list.tex,False,
-Lists Immutable,Medium,gen-list,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/medium/gen-list.tex,False,
-Lists Immutable,Medium,assignment-and-slicing,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/medium/wwpd/assignment-and-slicing.tex,False,sp18-week9_extra
-Lists Immutable,Text,list_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_immutable/text/list_overview.tex,True,
-Lists Mutable,Easy,append-to-all,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/append-to-all.tex,False,
-Lists Mutable,Easy,dogs,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/dogs.tex,False,
-Lists Mutable,Easy,pompom,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/pompom.tex,False,
-Lists Mutable,Easy,wwpd-mixed,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/wwpd-mixed.tex,False,fa18-week6
-Lists Mutable,Easy,wwpd,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/wwpd.tex,False,"fa17-week4,fa17-week6,fa17-week7,fa17-week8,fa17-week9,fa18-week6,sp18-week4,sp18-week6,sp18-week7-old,sp18-week7,sp18-week8,sp18-week9,sp18-week9_extra"
-Lists Mutable,Easy,mystery,env-diagram,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/env-diagram/mystery.tex,False,"fa17-week4,sp18-week4,sp18-week7"
-Lists Mutable,Easy,pokemon,env-diagram,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/env-diagram/pokemon.tex,False,
-Lists Mutable,Easy,pompom,env-diagram,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/easy/env-diagram/pompom.tex,False,
-Lists Mutable,Medium,accumulate,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/accumulate.tex,True,"fa17-week8,sp18-week7"
-Lists Mutable,Medium,ballot-rigger,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/ballot-rigger.tex,False,
-Lists Mutable,Medium,incredibles,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/incredibles.tex,True,
-Lists Mutable,Medium,wwpd-mutation-expanded,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/wwpd-mutation-expanded.tex,True,
-Lists Mutable,Medium,wwpd-mutation,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/wwpd-mutation.tex,False,
-Lists Mutable,Medium,bless-up,env,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/bless-up.tex,False,
-Lists Mutable,Medium,env-prog,env,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/env-prog.tex,True,
-Lists Mutable,Medium,fruit_loops,env,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/fruit_loops.tex,True,
-Lists Mutable,Medium,nice-ice-cream,env,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/nice-ice-cream.tex,False,
-Lists Mutable,Medium,one-two-three,env,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/one-two-three.tex,False,sp18-week14
-Lists Mutable,Medium,sing-a-song,env,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/sing-a-song.tex,False,"fa18-week7,sp18-week9"
-Lists Mutable,Medium,spooky-list,env,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/medium/env/spooky-list.tex,True,
-Lists Mutable,Text,mutable-vs-immutable,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/text/mutable-vs-immutable.tex,False,
-Lists Mutable,Text,mutation_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/lists_mutable/text/mutation_overview.tex,False,
-Macros,Easy,combine-num,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/easy/combine-num.tex,False,
-Macros,Easy,macros-quasi,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/easy/macros-quasi.tex,False,
-Macros,Easy,macros-wwsd,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/easy/macros-wwsd.tex,False,
-Macros,Hard,cond-questions,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/cond-questions.tex,False,
-Macros,Hard,decorators,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/decorators.tex,False,
-Macros,Hard,eval-and-check,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/eval-and-check.tex,False,
-Macros,Hard,fns-and-macros,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/fns-and-macros.tex,False,
-Macros,Hard,if-macro,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/if-macro.tex,False,
-Macros,Hard,lambda-macro,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/lambda-macro.tex,False,
-Macros,Hard,WWSD,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/WWSD.tex,False,
-Macros,Hard,zero-cond,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/hard/zero-cond.tex,False,
-Macros,Medium,and-odds,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/medium/and-odds.tex,False,
-Macros,Medium,apply-twice,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/medium/apply-twice.tex,False,
-Macros,Medium,extended-if,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/medium/extended-if.tex,False,
-Macros,Medium,if-macro,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/medium/if-macro.tex,False,
-Macros,Medium,stream-macro,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/medium/stream-macro.tex,False,
-Macros,Text,intro,coding,https://github.com/csmberkeley/csm-61a/master/topics/macros/text/intro.tex,False,"fa17-week4,fa17-week5,sp18-week11,sp18-week12,sp18-week14,sp18-week4"
-Misc,,golden-rule-of-equals,coding,https://github.com/csmberkeley/csm-61a/master/topics/misc/golden-rule-of-equals.tex,False,
-Misc,,lost-on-the-moon,coding,https://github.com/csmberkeley/csm-61a/master/topics/misc/lost-on-the-moon.tex,False,
-Nonlocal,Easy,campanile,env,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/easy/env/campanile.tex,False,
-Nonlocal,Easy,digits,env,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/easy/env/digits.tex,False,"fa17-week4,fa17-week5,sp18-week4"
-Nonlocal,Easy,kale,env,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/easy/env/kale.tex,False,"fa17-week8,fa18-week7,sp18-week7"
-Nonlocal,Easy,what,env,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/easy/env/what.tex,False,"fa17-week11,fa17-week13,fa17-week15,sp18-week13,sp18-week9_extra"
-Nonlocal,Medium,digit-getter,coding,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/digit-getter.tex,False,fa18-week7
-Nonlocal,Medium,make-seq-generator,coding,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/make-seq-generator.tex,False,
-Nonlocal,Medium,pingpong,coding,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/pingpong.tex,False,"fa17-week8,sp18-week7,sp18-week8"
-Nonlocal,Medium,pingpongv2,coding,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/pingpongv2.tex,False,fa17-week8
-Nonlocal,Medium,pingpongv3,coding,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/pingpongv3.tex,True,sp18-week7
-Nonlocal,Medium,amongus,env,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/medium/env/amongus.tex,True,
-Nonlocal,Text,nonlocal_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/nonlocal/text/nonlocal_overview.tex,False,
-OOP,Easy,adt,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/adt.tex,False,"fa17-week7,fa18-week6,sp18-week6,sp18-week7-old"
-OOP,Easy,dll,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/dll.tex,True,
-OOP,Easy,star-wars,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/star-wars.tex,False,
-OOP,Easy,team-baller,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/team-baller.tex,False,"fa17-week8,sp18-week8"
-OOP,Easy,foobar,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/wwpd/foobar.tex,False,"fa17-week4,sp18-week4"
-OOP,Easy,hoop,wwpd,https://github.com/csmberkeley/csm-61a/master/topics/oop/easy/wwpd/hoop.tex,False,"fa17-week8,sp18-week8"
-OOP,Medium,build-a-bear,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/build-a-bear.tex,False,
-OOP,Medium,flying-the-coop,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/flying-the-coop.tex,False,sp18-week8
-OOP,Medium,food,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/food.tex,True,"fa17-week15,sp18-week14"
-OOP,Medium,musician copy,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/musician copy.tex,False,
-OOP,Medium,musician,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/musician.tex,False,
-OOP,Medium,photosynthesis,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/photosynthesis.tex,False,
-OOP,Medium,pingpong,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/medium/pingpong.tex,False,"fa17-week8,sp18-week7,sp18-week8"
-OOP,Text,inheritance_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/text/inheritance_overview.tex,False,
-OOP,Text,oop_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/text/oop_overview.tex,False,
-OOP,Text,overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/text/overview.tex,False,
-OOP,Text,representation_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/oop/text/representation_overview.tex,False,
-Recursion,Easy,all-true,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/all-true.tex,False,
-Recursion,Easy,call-during-def,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/call-during-def.tex,False,
-Recursion,Easy,combine,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/combine.tex,True,"fa17-week11,fa18-week5"
-Recursion,Easy,identify-fib,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/identify-fib.tex,False,
-Recursion,Easy,num-digits,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/num-digits.tex,False,"fa17-week4,fa17-week5,sp18-week4"
-Recursion,Easy,three-parts,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/three-parts.tex,False,
-Recursion,Easy,what,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/what.tex,False,"fa17-week11,fa17-week13,fa17-week15,sp18-week13,sp18-week9_extra"
-Recursion,Easy,wrong-factorial,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/easy/wrong-factorial.tex,False,
-Recursion,Medium,add-up,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/add-up.tex,False,
-Recursion,Medium,coin-game,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/coin-game.tex,False,
-Recursion,Medium,collapse,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/collapse.tex,True,
-Recursion,Medium,combine-to-61,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/combine-to-61.tex,False,
-Recursion,Medium,combine,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/combine.tex,False,"fa17-week11,fa18-week5"
-Recursion,Medium,copy-machine1,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/copy-machine1.tex,True,fa18-week5
-Recursion,Medium,copy-machine2,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/copy-machine2.tex,True,fa18-week5
-Recursion,Medium,fizzbuzz,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/fizzbuzz.tex,False,
-Recursion,Medium,gibbonacci,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/gibbonacci.tex,False,
-Recursion,Medium,is-sorted,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/is-sorted.tex,True,"fa17-week4,fa17-week5,fa18-week5,sp18-week4,sp18-week5"
-Recursion,Medium,make-change,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/make-change.tex,True,"fa17-week5,sp18-week5"
-Recursion,Medium,mario-number,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/mario-number.tex,True,"fa17-week5,fa18-week5,sp18-week5"
-Recursion,Medium,max-subset-sum,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/max-subset-sum.tex,True,
-Recursion,Medium,midterm,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/midterm.tex,False,sp18-week9_extra
-Recursion,Medium,num-nums,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/num-nums.tex,False,
-Recursion,Medium,positionizer,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/positionizer.tex,True,
-Recursion,Medium,replace,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/replace.tex,False,"fa17-week15,fa18-week6"
-Recursion,Medium,root-subtraction,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/root-subtraction.tex,False,
-Recursion,Medium,search-level,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/search-level.tex,False,
-Recursion,Medium,subset-sum,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/subset-sum.tex,False,
-Recursion,Medium,subsets,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/subsets.tex,True,
-Recursion,Medium,sum-prime-digits,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/sum-prime-digits.tex,False,
-Recursion,Medium,foobar1,env,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/env/foobar1.tex,False,"fa17-week4,sp18-week4"
-Recursion,Medium,foobar2,env,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/env/foobar2.tex,False,"fa17-week4,sp18-week4"
-Recursion,Medium,foobar3,env,https://github.com/csmberkeley/csm-61a/master/topics/recursion/medium/env/foobar3.tex,False,
-Recursion,Text,introduction,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/text/introduction.tex,False,"fa17-week4,fa17-week5,sp18-week4"
-Recursion,Text,recursion_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/text/recursion_overview.tex,True,
-Recursion,Text,tree_recursion_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/recursion/text/tree_recursion_overview.tex,True,
-Scheme,Easy,hailstone,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/hailstone.tex,True,"fa17-week10,fa17-week13,fa17-week7,sp18-week10,sp18-week13,sp18-week7-old,sp18-week8,su18-week10,su19-week10"
-Scheme,Easy,let-issues,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/let-issues.tex,False,sp18-week11
-Scheme,Easy,scoping-env-diag,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/scoping-env-diag.tex,False,sp18-week11
-Scheme,Easy,scoping-intro,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/scoping-intro.tex,False,sp18-week11
-Scheme,Easy,sixty-ones,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/sixty-ones.tex,False,
-Scheme,Easy,basics,wwsd,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/basics.tex,True,"fa17-week10,sp18-week10,su18-week10,su19-week10"
-Scheme,Easy,boom,wwsd,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/boom.tex,True,fa17-week11
-Scheme,Easy,define-eval,wwsd,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/define-eval.tex,True,
-Scheme,Easy,define,wwsd,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/define.tex,False,"fa17-week11,fa17-week12,fa17-week13,fa17-week15,sp18-week11,sp18-week13,sp18-week9"
-Scheme,Easy,dots,wwsd,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/dots.tex,False,
-Scheme,Easy,if-and-or,wwsd,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/if-and-or.tex,False,sp18-week11
-Scheme,Easy,lists,wwsd,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/lists.tex,False,"fa17-week10,fa17-week11,fa17-week15,fa17-week6,fa17-week8,fa17-week9,fa18-week6,fa18-week7,sp18-week10,sp18-week14,sp18-week6,sp18-week7,sp18-week9,sp18-week9_extra,su18-week11,su19-week11"
-Scheme,Easy,lists_nodots,wwsd,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/lists_nodots.tex,True,
-Scheme,Easy,special-forms,wwsd,https://github.com/csmberkeley/csm-61a/master/topics/scheme/easy/wwsd/special-forms.tex,True,"su18-week10,su19-week10"
-Scheme,Hard,increasing-checker,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/hard/increasing-checker.tex,False,
-Scheme,Hard,max-depth,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/hard/max-depth.tex,True,
-Scheme,Medium,add-to-all,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/add-to-all.tex,False,
-Scheme,Medium,apply-n,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/apply-n.tex,True,"su18-week10,su19-week10"
-Scheme,Medium,argmax,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/argmax.tex,False,
-Scheme,Medium,backwards-sum,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/backwards-sum.tex,False,
-Scheme,Medium,binary-list,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/binary-list.tex,False,
-Scheme,Medium,decay,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/decay.tex,True,
-Scheme,Medium,double-link,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/double-link.tex,False,"sp18-week14,su18-week11,su19-week11"
-Scheme,Medium,find-bugs,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/find-bugs.tex,False,
-Scheme,Medium,guardians-and-asteroids,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/guardians-and-asteroids.tex,False,
-Scheme,Medium,insert,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/insert.tex,False,"fa17-week15,sp18-week14"
-Scheme,Medium,is-prefix,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/is-prefix.tex,True,"fa17-week10,sp18-week10,su18-week11,su19-week11"
-Scheme,Medium,lists-hard,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/lists-hard.tex,False,"su18-week11,su19-week11"
-Scheme,Medium,lists,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/lists.tex,False,"fa17-week10,fa17-week11,fa17-week15,fa17-week6,fa17-week8,fa17-week9,fa18-week6,fa18-week7,sp18-week10,sp18-week14,sp18-week6,sp18-week7,sp18-week9,sp18-week9_extra,su18-week11,su19-week11"
-Scheme,Medium,quicksort,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/quicksort.tex,False,"fa17-week11,sp18-week11"
-Scheme,Medium,reverse-map,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/reverse-map.tex,False,
-Scheme,Medium,reverse,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/reverse.tex,True,"fa17-week6,fa17-week9,fa18-week6,sp18-week6,sp18-week9"
-Scheme,Medium,run,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/run.tex,False,fa17-week15
-Scheme,Medium,shuffle,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/shuffle.tex,False,"fa17-week15,sp18-week14"
-Scheme,Medium,skip-list,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/skip-list.tex,True,
-Scheme,Medium,skip-reduce,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/skip-reduce.tex,False,
-Scheme,Medium,sublists,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/sublists.tex,False,
-Scheme,Medium,waldo,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/waldo.tex,True,"fa17-week11,sp18-week11,su18-week11,su19-week11"
-Scheme,Medium,well-formed,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/medium/well-formed.tex,False,"fa17-week10,fa17-week11,sp18-week10,su18-week11,su19-week11"
-Scheme,Text,lists,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/text/lists.tex,False,"fa17-week10,fa17-week11,fa17-week15,fa17-week6,fa17-week8,fa17-week9,fa18-week6,fa18-week7,sp18-week10,sp18-week14,sp18-week6,sp18-week7,sp18-week9,sp18-week9_extra,su18-week11,su19-week11"
-Scheme,Text,online-interpreter,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/text/online-interpreter.tex,False,"fa17-week10,sp18-week10"
-Scheme,Text,scheme-basics-overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/text/scheme-basics-overview.tex,True,
-Scheme,Text,scheme-lists-overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/text/scheme-lists-overview.tex,True,
-Scheme,Text,special-forms,coding,https://github.com/csmberkeley/csm-61a/master/topics/scheme/text/special-forms.tex,False,"su18-week10,su19-week10"
-SQL,Easy,elevator,circus,https://github.com/csmberkeley/csm-61a/master/topics/sql/easy/circus/elevator.tex,False,
-SQL,Easy,text,circus,https://github.com/csmberkeley/csm-61a/master/topics/sql/easy/circus/text.tex,False,"fa17-week10,fa17-week11,fa17-week12,fa17-week13,fa17-week15,fa17-week4,fa17-week5,fa17-week6,fa17-week7,fa17-week8,fa17-week9,fa18-week5,fa18-week6,sp18-week10,sp18-week11,sp18-week12,sp18-week13,sp18-week14,sp18-week4,sp18-week5,sp18-week6,sp18-week7-old,sp18-week7,sp18-week8,sp18-week9,sp18-week9_extra,su18-week10,su18-week11,su19-week10,su19-week11"
-SQL,Easy,trucks,circus,https://github.com/csmberkeley/csm-61a/master/topics/sql/easy/circus/trucks.tex,False,
-SQL,Hard,mod-seven,coding,https://github.com/csmberkeley/csm-61a/master/topics/sql/hard/mod-seven.tex,False,
-SQL,Medium,most-pieces-per-price,fish,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/easy/most-pieces-per-price.tex,False,sp18-week14
-SQL,Medium,most-populated-species,fish,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/easy/most-populated-species.tex,False,sp18-week14
-SQL,Medium,number-fish,fish,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/easy/number-fish.tex,False,sp18-week14
-SQL,Medium,competitor,fish,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/medium/competitor.tex,True,"fa17-week15,sp18-week14"
-SQL,Medium,undercut,fish,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/medium/undercut.tex,False,
-SQL,Medium,yearly-pop-mutative,fish,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/medium/yearly-pop-mutative.tex,False,
-SQL,Medium,yearly-pop,fish,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/medium/yearly-pop.tex,False,
-SQL,Medium,competitor,fish,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/tables/competitor.tex,False,"fa17-week15,sp18-week14"
-SQL,Medium,fish,fish,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/tables/fish.tex,False,"fa17-week15,sp18-week14"
-SQL,Medium,competitor,fish,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/text/competitor.tex,False,"fa17-week15,sp18-week14"
-SQL,Medium,intro,fish,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/fish/text/intro.tex,False,"fa17-week4,fa17-week5,sp18-week11,sp18-week12,sp18-week14,sp18-week4"
-SQL,Medium,create-table,mentors,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/create-table.tex,False,sp18-week14
-SQL,Medium,table,mentors,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/table.tex,False,"fa17-week15,fa17-week6,fa17-week8,fa18-week6,fa18-week7,sp18-week14,sp18-week6,sp18-week7,sp18-week9,sp18-week9_extra"
-SQL,Medium,alphabetical,mentors,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/easy/alphabetical.tex,False,
-SQL,Medium,food-and-color-if-language-not-python,mentors,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/easy/food-and-color-if-language-not-python.tex,True,sp18-week14
-SQL,Medium,food-if-color-green,mentors,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/easy/food-if-color-green.tex,False,sp18-week14
-SQL,Medium,pairs-same-language,mentors,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/mentors/medium/pairs-same-language.tex,True,sp18-week14
-SQL,Medium,text,outfits,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/outfits/text.tex,False,"fa17-week10,fa17-week11,fa17-week12,fa17-week13,fa17-week15,fa17-week4,fa17-week5,fa17-week6,fa17-week7,fa17-week8,fa17-week9,fa18-week5,fa18-week6,sp18-week10,sp18-week11,sp18-week12,sp18-week13,sp18-week14,sp18-week4,sp18-week5,sp18-week6,sp18-week7-old,sp18-week7,sp18-week8,sp18-week9,sp18-week9_extra,su18-week10,su18-week11,su19-week10,su19-week11"
-SQL,Medium,lucky-shirt,outfits,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/outfits/medium/lucky-shirt.tex,True,
-SQL,Medium,sum-scores,outfits,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/outfits/medium/sum-scores.tex,False,
-SQL,Medium,grades,outfits,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/outfits/tables/grades.tex,False,
-SQL,Medium,outfits,outfits,https://github.com/csmberkeley/csm-61a/master/topics/sql/medium/outfits/tables/outfits.tex,False,
-Streams Python,Easy,double-naturals,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/easy/double-naturals.tex,False,
-Streams Python,Easy,factorial-stream,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/easy/factorial-stream.tex,False,
-Streams Python,Easy,interleave,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/easy/interleave.tex,False,"fa17-week13,sp18-week13"
-Streams Python,Easy,wwpd,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/easy/wwpd.tex,False,"fa17-week4,fa17-week6,fa17-week7,fa17-week8,fa17-week9,fa18-week6,sp18-week4,sp18-week6,sp18-week7-old,sp18-week7,sp18-week8,sp18-week9,sp18-week9_extra"
-Streams Python,Medium,cycle-ith,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/medium/cycle-ith.tex,False,
-Streams Python,Medium,unique-stream,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/medium/unique-stream.tex,False,
-Streams Python,Text,docstrings,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/text/docstrings.tex,False,
-Streams Python,Text,implementation,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_python/text/implementation.tex,False,"fa17-week15,fa17-week7,fa17-week9,fa18-week6,sp18-week6,sp18-week7-old,sp18-week9"
-Streams Scheme,Easy,add-streams,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/easy/add-streams.tex,False,
-Streams Scheme,Easy,double-naturals,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/easy/double-naturals.tex,False,
-Streams Scheme,Easy,interleave,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/easy/interleave.tex,False,"fa17-week13,sp18-week13"
-Streams Scheme,Easy,intro,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/easy/intro.tex,False,"fa17-week4,fa17-week5,sp18-week11,sp18-week12,sp18-week14,sp18-week4"
-Streams Scheme,Easy,wwsd,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/easy/wwsd.tex,False,"fa17-week10,sp18-week10,sp18-week11,su18-week10,su19-week10"
-Streams Scheme,Hard,pairer,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/hard/pairer.tex,False,
-Streams Scheme,Medium,coalesce,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/medium/coalesce.tex,False,
-Streams Scheme,Medium,puns,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/medium/puns.tex,False,"fa17-week15,sp18-week14"
-Streams Scheme,Medium,truthful-stream,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/medium/truthful-stream.tex,False,
-Streams Scheme,Text,basic,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/text/basic.tex,False,"fa17-week10,sp18-week10,su18-week10,su19-week10"
-Streams Scheme,Text,doctest-helpers,coding,https://github.com/csmberkeley/csm-61a/master/topics/streams_scheme/text/doctest-helpers.tex,False,
-Tail Recursion,Easy,intro,coding,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/easy/intro.tex,False,"fa17-week4,fa17-week5,sp18-week11,sp18-week12,sp18-week14,sp18-week4"
-Tail Recursion,Medium,count-instance,coding,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/medium/count-instance.tex,False,sp18-week12
-Tail Recursion,Medium,filter-nested,coding,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/medium/filter-nested.tex,False,
-Tail Recursion,Medium,filter,coding,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/medium/filter.tex,False,"fa18-week7,sp18-week12"
-Tail Recursion,Medium,slice,coding,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/medium/slice.tex,False,
-Tail Recursion,Medium,sum-list,coding,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/medium/sum-list.tex,False,fa17-week12
-Tail Recursion,Text,intro,coding,https://github.com/csmberkeley/csm-61a/master/topics/tail-recursion/text/intro.tex,False,"fa17-week4,fa17-week5,sp18-week11,sp18-week12,sp18-week14,sp18-week4"
-Trees Adt,Easy,draw-tree,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/easy/draw-tree.tex,False,"fa17-week7,fa18-week6,sp18-week6,sp18-week7-old"
-Trees Adt,Easy,diagram,construct-tree,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/easy/construct-tree/diagram.tex,False,"fa17-week11,fa17-week12,fa17-week15,fa17-week4,fa17-week6,fa17-week7,fa17-week8,fa18-week6,fa18-week7,sp18-week14,sp18-week4,sp18-week6,sp18-week7-old,sp18-week7,sp18-week9,sp18-week9_extra"
-Trees Adt,Easy,get-item,construct-tree,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/easy/construct-tree/get-item.tex,False,"fa17-week7,fa18-week6,sp18-week6,sp18-week7-old"
-Trees Adt,Easy,question,construct-tree,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/easy/construct-tree/question.tex,False,"fa17-week10,fa17-week11,fa17-week12,fa17-week13,fa17-week15,fa17-week4,fa17-week5,fa17-week6,fa17-week7,fa17-week8,fa17-week9,fa18-week5,fa18-week6,fa18-week7,sp18-week10,sp18-week11,sp18-week12,sp18-week13,sp18-week14,sp18-week4,sp18-week5,sp18-week6,sp18-week7-old,sp18-week7,sp18-week8,sp18-week9,sp18-week9_extra,su18-week10,su18-week11,su19-week10,su19-week11"
-Trees Adt,Easy,wwpd,construct-tree,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/easy/construct-tree/wwpd.tex,False,"fa17-week4,fa17-week6,fa17-week7,fa17-week8,fa17-week9,fa18-week6,sp18-week4,sp18-week6,sp18-week7-old,sp18-week7,sp18-week8,sp18-week9,sp18-week9_extra"
-Trees Adt,Hard,contains-n,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/hard/contains-n.tex,False,sp18-week9
-Trees Adt,Hard,scrabble,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/hard/scrabble.tex,False,
-Trees Adt,Medium,all-paths,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/all-paths.tex,True,
-Trees Adt,Medium,count,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/count.tex,False,sp18-week12
-Trees Adt,Medium,even-square-tree,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/even-square-tree.tex,False,
-Trees Adt,Medium,factor-tree copy,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/factor-tree copy.tex,False,
-Trees Adt,Medium,factor-tree,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/factor-tree.tex,False,sp18-week9
-Trees Adt,Medium,replace-x,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/replace-x.tex,False,fa18-week6
-Trees Adt,Medium,tree-sum,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/tree-sum.tex,True,"fa17-week7,fa18-week6,sp18-week6,sp18-week7-old"
-Trees Adt,Medium,correct-tree,min-heap,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/min-heap/correct-tree.tex,False,
-Trees Adt,Medium,problem,min-heap,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/min-heap/problem.tex,False,"sp18-week9,sp18-week9_extra"
-Trees Adt,Medium,wrong-tree,min-heap,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/min-heap/wrong-tree.tex,False,
-Trees Adt,Medium,after,prune,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/prune/after.tex,False,fa17-week12
-Trees Adt,Medium,before,prune,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/prune/before.tex,False,fa17-week11
-Trees Adt,Medium,problem,prune,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/medium/prune/problem.tex,False,"sp18-week9,sp18-week9_extra"
-Trees Adt,Text,draw-tree,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/text/draw-tree.tex,False,"fa17-week7,fa18-week6,sp18-week6,sp18-week7-old"
-Trees Adt,Text,implementation,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/text/implementation.tex,False,"fa17-week15,fa17-week7,fa17-week9,fa18-week6,sp18-week6,sp18-week7-old,sp18-week9"
-Trees Adt,Text,tree_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_adt/text/tree_overview.tex,True,
-Trees Class,Bst,sum-in-range,medium,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/bst/medium/sum-in-range.tex,False,
-Trees Class,Bst,complex,medium,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/bst/medium/is-symmetric/complex.tex,False,
-Trees Class,Bst,question,medium,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/bst/medium/is-symmetric/question.tex,False,"fa17-week10,fa17-week11,fa17-week12,fa17-week13,fa17-week15,fa17-week4,fa17-week5,fa17-week6,fa17-week7,fa17-week8,fa17-week9,fa18-week5,fa18-week6,fa18-week7,sp18-week10,sp18-week11,sp18-week12,sp18-week13,sp18-week14,sp18-week4,sp18-week5,sp18-week6,sp18-week7-old,sp18-week7,sp18-week8,sp18-week9,sp18-week9_extra,su18-week10,su18-week11,su19-week10,su19-week11"
-Trees Class,Bst,simple,medium,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/bst/medium/is-symmetric/simple.tex,False,"fa17-week6,sp18-week6"
-Trees Class,Bst,implementation,text,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/bst/text/implementation.tex,False,"fa17-week15,fa17-week7,fa17-week9,fa18-week6,sp18-week6,sp18-week7-old,sp18-week9"
-Trees Class,Easy,height,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/easy/height.tex,False,
-Trees Class,Easy,tree-sum,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/easy/tree-sum.tex,False,"fa17-week7,fa18-week6,sp18-week6,sp18-week7-old"
-Trees Class,Hard,contains-n,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/hard/contains-n.tex,True,sp18-week9
-Trees Class,Hard,code,eert,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/hard/eert/code.tex,False,"fa17-week11,fa17-week13,fa17-week15,sp18-week13"
-Trees Class,Hard,question,eert,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/hard/eert/question.tex,False,"fa17-week10,fa17-week11,fa17-week12,fa17-week13,fa17-week15,fa17-week4,fa17-week5,fa17-week6,fa17-week7,fa17-week8,fa17-week9,fa18-week5,fa18-week6,fa18-week7,sp18-week10,sp18-week11,sp18-week12,sp18-week13,sp18-week14,sp18-week4,sp18-week5,sp18-week6,sp18-week7-old,sp18-week7,sp18-week8,sp18-week9,sp18-week9_extra,su18-week10,su18-week11,su19-week10,su19-week11"
-Trees Class,Medium,delete-path-duplicates,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/delete-path-duplicates.tex,True,
-Trees Class,Medium,double-tree,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/double-tree.tex,False,sp18-week14
-Trees Class,Medium,factor-tree,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/factor-tree.tex,False,sp18-week9
-Trees Class,Medium,remove-nodes,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/remove-nodes.tex,False,
-Trees Class,Medium,replace-leaves-sum,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/replace-leaves-sum.tex,False,
-Trees Class,Medium,weighted-tree,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/weighted-tree.tex,True,
-Trees Class,Medium,after,double-tree-needs-mutation,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/double-tree-needs-mutation/after.tex,False,fa17-week12
-Trees Class,Medium,before,double-tree-needs-mutation,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/double-tree-needs-mutation/before.tex,False,fa17-week11
-Trees Class,Medium,question,double-tree-needs-mutation,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/medium/double-tree-needs-mutation/question.tex,False,"fa17-week10,fa17-week11,fa17-week12,fa17-week13,fa17-week15,fa17-week4,fa17-week5,fa17-week6,fa17-week7,fa17-week8,fa17-week9,fa18-week5,fa18-week6,fa18-week7,sp18-week10,sp18-week11,sp18-week12,sp18-week13,sp18-week14,sp18-week4,sp18-week5,sp18-week6,sp18-week7-old,sp18-week7,sp18-week8,sp18-week9,sp18-week9_extra,su18-week10,su18-week11,su19-week10,su19-week11"
-Trees Class,Text,adt_vs_class_overview,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/text/adt_vs_class_overview.tex,False,
-Trees Class,Text,implementation,coding,https://github.com/csmberkeley/csm-61a/master/topics/trees_class/text/implementation.tex,False,"fa17-week15,fa17-week7,fa17-week9,fa18-week6,sp18-week6,sp18-week7-old,sp18-week9"
+Binary,Easy,table,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/binary/easy/table.tex,True,"sp18-week9_extra,sp18-week9,sp18-week7,sp18-week6,sp18-week14,fa18-week7,fa18-week6,fa17-week8,fa17-week6,fa17-week15"
+Binary,Text,binary_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/binary/text/binary_overview.tex,False,
+Data Abstraction,Easy,elephants,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/data-abstraction/easy/elephants.tex,True,"sp18-week5,fa18-week5,fa17-week6,fa17-week5"
+Data Abstraction,Text,abstraction-summary,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/data-abstraction/text/abstraction-summary.tex,True,
+Efficiency,Easy,belgian-waffle,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/easy/belgian-waffle.tex,True,
+Efficiency,Easy,jumpstart,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/easy/jumpstart.tex,True,"sp18-week7-old,fa17-week7"
+Efficiency,Easy,medley,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/easy/medley.tex,False,"sp18-week8,sp18-week7-old,fa17-week7"
+Efficiency,Easy,one-two-three,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/easy/one-two-three.tex,False,sp18-week14
+Efficiency,Easy,pancake,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/easy/pancake.tex,False,
+Efficiency,Easy,simplify,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/easy/simplify.tex,False,
+Efficiency,Easy,strange-add,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/easy/strange-add.tex,False,
+Efficiency,Easy,toast,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/easy/toast.tex,False,
+Efficiency,Hard,hiya,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/hard/hiya.tex,False,
+Efficiency,Medium,append-many,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/medium/append-many.tex,False,
+Efficiency,Medium,append,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/medium/append.tex,False,"fa17-week15,fa17-week11"
+Efficiency,Medium,fast-exponentiation,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/medium/fast-exponentiation.tex,False,"sp18-week9_extra,sp18-week7-old,fa17-week8,fa17-week7"
+Efficiency,Medium,hailstone,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/medium/hailstone.tex,False,"su19-week10,su18-week10,sp18-week8,sp18-week7-old,sp18-week13,sp18-week10,fa17-week7,fa17-week13,fa17-week10"
+Efficiency,Medium,mysterious-loops,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/medium/mysterious-loops.tex,False,"sp18-week9_extra,sp18-week7-old,fa17-week8,fa17-week7"
+Efficiency,Medium,prepend,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/medium/prepend.tex,False,
+Efficiency,Medium,runtimes-p1,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/medium/runtimes-p1.tex,False,
+Efficiency,Medium,runtimes-p2,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/medium/runtimes-p2.tex,False,
+Efficiency,Medium,trees,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/medium/trees.tex,False,"sp18-week9,sp18-week8,sp18-week7-old,sp18-week6,sp18-week14,sp18-week13,fa18-week6,fa17-week7,fa17-week13"
+Efficiency,Medium,word-finder,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/medium/word-finder.tex,False,
+Efficiency,Text,intro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/text/intro.tex,False,"sp18-week4,sp18-week14,sp18-week12,sp18-week11,fa17-week5,fa17-week4"
+Efficiency,Text,oog_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/efficiency/text/oog_overview.tex,True,
+Functions And Expressions,Easy,divisible-by-4,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/divisible-by-4.tex,False,
+Functions And Expressions,Easy,funky-funcs,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/funky-funcs.tex,False,
+Functions And Expressions,Easy,identify-expressions,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/identify-expressions.tex,False,
+Functions And Expressions,Easy,primitive-vs-call,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/primitive-vs-call.tex,False,
+Functions And Expressions,Easy,ab,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/env/ab.tex,False,"sp18-week9_extra,sp18-week9,sp18-week7,sp18-week6,sp18-week5,sp18-week14,sp18-week13,fa18-week7,fa18-week6,fa18-week5,fa17-week8,fa17-week6,fa17-week5,fa17-week15,fa17-week13,fa17-week12,fa17-week11"
+Functions And Expressions,Easy,abcd,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/env/abcd.tex,False,
+Functions And Expressions,Easy,foobar,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/env/foobar.tex,False,"sp18-week4,fa17-week4"
+Functions And Expressions,Easy,new-frame,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/env/new-frame.tex,False,
+Functions And Expressions,Easy,add-add,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/wwpd/add-add.tex,False,
+Functions And Expressions,Easy,add-sub-add,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/wwpd/add-sub-add.tex,False,
+Functions And Expressions,Easy,beep-boop-basic,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/wwpd/beep-boop-basic.tex,False,
+Functions And Expressions,Easy,fgf,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/wwpd/fgf.tex,False,
+Functions And Expressions,Easy,potpurri,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/wwpd/potpurri.tex,False,
+Functions And Expressions,Easy,printer,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/wwpd/printer.tex,False,
+Functions And Expressions,Easy,simple-add,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/wwpd/simple-add.tex,False,
+Functions And Expressions,Easy,square,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/wwpd/square.tex,False,
+Functions And Expressions,Easy,varargs-add,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/easy/wwpd/varargs-add.tex,False,
+Functions And Expressions,Hard,digit_div,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/hard/digit_div.tex,False,
+Functions And Expressions,Hard,min_fact,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/hard/min_fact.tex,False,
+Functions And Expressions,Medium,compatible-types,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/compatible-types.tex,False,
+Functions And Expressions,Medium,fgh,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/fgh.tex,False,
+Functions And Expressions,Medium,find-max,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/find-max.tex,False,
+Functions And Expressions,Medium,fizzbuzz,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/fizzbuzz.tex,False,
+Functions And Expressions,Medium,identify-types,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/identify-types.tex,False,
+Functions And Expressions,Medium,leap-year,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/leap-year.tex,False,
+Functions And Expressions,Medium,pow-of-2,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/pow-of-2.tex,False,
+Functions And Expressions,Medium,quick-maths,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/quick-maths.tex,False,
+Functions And Expressions,Medium,abde,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/env/abde.tex,False,
+Functions And Expressions,Medium,joke,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/env/joke.tex,True,
+Functions And Expressions,Medium,snowflake,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/env/snowflake.tex,False,
+Functions And Expressions,Medium,swap,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/env/swap.tex,True,
+Functions And Expressions,Medium,argentina,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/wwpd/argentina.tex,False,
+Functions And Expressions,Medium,boom,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/wwpd/boom.tex,False,fa17-week11
+Functions And Expressions,Medium,happy-sad,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/wwpd/happy-sad.tex,False,
+Functions And Expressions,Medium,maths&quick-maths,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/wwpd/maths&quick-maths.tex,False,
+Functions And Expressions,Medium,print-add,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/wwpd/print-add.tex,False,
+Functions And Expressions,Medium,welcome,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/medium/wwpd/welcome.tex,False,
+Functions And Expressions,Text,assume-imports,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/functions-and-expressions/text/assume-imports.tex,False,
+Generators,Easy,foo,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/easy/foo.tex,True,"sp18-week4,sp18-week14,sp18-week13,fa18-week7,fa17-week4,fa17-week15,fa17-week13,fa17-week11"
+Generators,Easy,iter-link,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/easy/iter-link.tex,True,
+Generators,Easy,list-gen,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/easy/list-gen.tex,True,
+Generators,Easy,run-length-decoder,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/easy/run-length-decoder.tex,False,fa17-week15
+Generators,Medium,all-paths,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/all-paths.tex,False,
+Generators,Medium,all-sums,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/all-sums.tex,False,
+Generators,Medium,dfs-sum,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/dfs-sum.tex,False,
+Generators,Medium,filter-gen,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/filter-gen.tex,True,fa18-week7
+Generators,Medium,flat-map,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/flat-map.tex,False,
+Generators,Medium,hailstone,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/hailstone.tex,False,"su19-week10,su18-week10,sp18-week8,sp18-week7-old,sp18-week13,sp18-week10,fa17-week7,fa17-week13,fa17-week10"
+Generators,Medium,in-order,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/in-order.tex,False,
+Generators,Medium,list-sort,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/list-sort.tex,False,
+Generators,Medium,nondecreasing-paths,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/nondecreasing-paths.tex,True,
+Generators,Medium,num-elems,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/num-elems.tex,True,
+Generators,Medium,paths-to-sum,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/paths-to-sum.tex,False,
+Generators,Medium,tree-sequence,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/medium/tree-sequence.tex,True,"sp18-week13,fa18-week7,fa17-week13"
+Generators,Text,generators_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/generators/text/generators_overview.tex,False,
+HOF,Easy,compose,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/easy/compose.tex,False,
+HOF,Easy,def-to-lambda,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/easy/def-to-lambda.tex,False,
+HOF,Easy,make-adder,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/easy/make-adder.tex,False,
+HOF,Easy,make-interval,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/easy/make-interval.tex,False,
+HOF,Easy,make-skipper,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/easy/make-skipper.tex,False,"sp18-week4,fa17-week4"
+HOF,Easy,print_n,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/easy/print_n.tex,False,
+HOF,Easy,what,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/easy/what.tex,False,"sp18-week9_extra,sp18-week13,fa17-week15,fa17-week13,fa17-week11"
+HOF,Easy,why,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/easy/why.tex,False,fa17-week12
+HOF,Easy,barfoo,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/easy/env/barfoo.tex,False,
+HOF,Easy,foobar,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/easy/env/foobar.tex,True,"sp18-week4,fa17-week4"
+HOF,Easy,make-adder,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/easy/env/make-adder.tex,False,
+HOF,Hard,compound,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/hard/compound.tex,False,
+HOF,Hard,decompose1,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/hard/decompose1.tex,False,
+HOF,Hard,fox-says,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/hard/fox-says.tex,False,
+HOF,Hard,self-referencing,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/hard/self-referencing.tex,False,
+HOF,Medium,alternator,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/alternator.tex,False,
+HOF,Medium,apply-n,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/apply-n.tex,False,"su19-week10,su18-week10"
+HOF,Medium,apply_n,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/apply_n.tex,False,
+HOF,Medium,check-sum,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/check-sum.tex,False,
+HOF,Medium,check_sum,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/check_sum.tex,False,
+HOF,Medium,curry_forever,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/curry_forever.tex,False,
+HOF,Medium,curry_forever_alt,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/curry_forever_alt.tex,False,
+HOF,Medium,flip-flop,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/flip-flop.tex,False,
+HOF,Medium,kill_the,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/kill_the.tex,False,
+HOF,Medium,make-digit-remover,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/make-digit-remover.tex,False,
+HOF,Medium,mystery,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/mystery.tex,False,"sp18-week7,sp18-week4,fa17-week4"
+HOF,Medium,xyz,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/xyz.tex,False,
+HOF,Medium,apple,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/env/apple.tex,False,
+HOF,Medium,inception,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/env/inception.tex,False,
+HOF,Medium,lambda-curry,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/env/lambda-curry.tex,False,
+HOF,Medium,zebra,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/env/zebra.tex,False,
+HOF,Medium,lambda-mul,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/wwpd/lambda-mul.tex,False,
+HOF,Medium,lambda-wwpd,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/wwpd/lambda-wwpd.tex,False,
+HOF,Medium,mystery,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/hof/medium/wwpd/mystery.tex,False,"sp18-week7,sp18-week4,fa17-week4"
+Interpreters,Easy,eval-apply,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interpreters/easy/eval-apply.tex,False,"sp18-week12,fa17-week12"
+Interpreters,Easy,intro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interpreters/easy/intro.tex,True,"sp18-week4,sp18-week14,sp18-week12,sp18-week11,fa17-week5,fa17-week4"
+Interpreters,Easy,sum-list,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interpreters/easy/sum-list.tex,False,fa17-week12
+Interpreters,Easy,tail-calls,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interpreters/easy/tail-calls.tex,False,
+Interpreters,Medium,eval-apply,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interpreters/medium/eval-apply.tex,True,"sp18-week12,fa17-week12"
+Interpreters,Medium,hack-pi,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interpreters/medium/hack-pi.tex,False,fa17-week12
+Interview,,all-ways-skeleton,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interview/all-ways-skeleton.tex,False,
+Interview,,all-ways,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interview/all-ways.tex,False,
+Interview,,flip,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interview/flip.tex,False,
+Interview,,game,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interview/game.tex,False,
+Interview,,gen-bork,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interview/gen-bork.tex,False,
+Interview,,lambda-explain,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interview/lambda-explain.tex,False,
+Interview,,link-explain,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interview/link-explain.tex,False,
+Interview,,oop-bork,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interview/oop-bork.tex,False,
+Interview,,oop-gen,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interview/oop-gen.tex,False,
+Interview,,rot,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interview/rot.tex,True,
+Interview,,rotate,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/interview/rotate.tex,False,
+Iterators,Easy,interleave,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/iterators/easy/interleave.tex,False,"sp18-week13,fa17-week13"
+Iterators,Easy,iterator-vs-iterable,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/iterators/easy/iterator-vs-iterable.tex,False,fa17-week12
+Iterators,Easy,skipmachine,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/iterators/easy/skipmachine.tex,False,sp18-week14
+Iterators,Medium,any-iterable,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/iterators/medium/accumulator/any-iterable.tex,False,
+Iterators,Medium,code,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/iterators/medium/accumulator/code.tex,False,"sp18-week13,fa17-week15,fa17-week13,fa17-week11"
+Iterators,Medium,iterator-vs-iterable,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/iterators/medium/accumulator/iterator-vs-iterable.tex,False,fa17-week12
+Linked Lists Adt,Easy,basics,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_adt/easy/basics.tex,False,"su19-week10,su18-week10,sp18-week10,fa17-week10"
+Linked Lists Adt,Easy,draw,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_adt/easy/draw.tex,False,"sp18-week7-old,sp18-week6,fa18-week6,fa17-week7,fa17-week15,fa17-week12"
+Linked Lists Adt,Easy,every-other,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_adt/easy/every-other.tex,False,
+Linked Lists Adt,Easy,get-item,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_adt/easy/get-item.tex,False,"sp18-week7-old,sp18-week6,fa18-week6,fa17-week7"
+Linked Lists Adt,Easy,length,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_adt/easy/length.tex,False,fa17-week15
+Linked Lists Adt,Medium,merge,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_adt/medium/merge.tex,False,
+Linked Lists Adt,Medium,reverse,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_adt/medium/reverse.tex,False,"sp18-week9,sp18-week6,fa18-week6,fa17-week9,fa17-week6"
+Linked Lists Adt,Medium,subsequence-of,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_adt/medium/subsequence-of.tex,False,
+Linked Lists Adt,Text,implementation,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_adt/text/implementation.tex,False,"sp18-week9,sp18-week7-old,sp18-week6,fa18-week6,fa17-week9,fa17-week7,fa17-week15"
+Linked Lists Class,Easy,linkify,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/easy/linkify.tex,False,
+Linked Lists Class,Easy,skip-no-mutate,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/easy/skip-no-mutate.tex,True,"sp18-week9,fa17-week9"
+Linked Lists Class,Easy,skip,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/easy/skip.tex,True,"sp18-week9,sp18-week6,sp18-week4,sp18-week14,fa18-week6,fa17-week9,fa17-week4"
+Linked Lists Class,Easy,wwpd,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/easy/wwpd.tex,True,"sp18-week9_extra,sp18-week9,sp18-week8,sp18-week7,sp18-week7-old,sp18-week6,sp18-week4,fa18-week6,fa17-week9,fa17-week8,fa17-week7,fa17-week6,fa17-week4"
+Linked Lists Class,Medium,combine-two,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/medium/combine-two.tex,False,
+Linked Lists Class,Medium,double-link,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/medium/double-link.tex,False,"su19-week11,su18-week11,sp18-week14"
+Linked Lists Class,Medium,has-cycle,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/medium/has-cycle.tex,True,fa17-week9
+Linked Lists Class,Medium,reverse-inplace,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/medium/reverse-inplace.tex,False,fa17-week9
+Linked Lists Class,Medium,reverse,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/medium/reverse.tex,False,"sp18-week9,sp18-week6,fa18-week6,fa17-week9,fa17-week6"
+Linked Lists Class,Medium,shuffle,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/medium/shuffle.tex,False,"sp18-week14,fa17-week15"
+Linked Lists Class,Medium,triforce,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/medium/triforce.tex,False,
+Linked Lists Class,Text,implementation,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/text/implementation.tex,False,"sp18-week9,sp18-week7-old,sp18-week6,fa18-week6,fa17-week9,fa17-week7,fa17-week15"
+Linked Lists Class,Text,linked_list_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/linked-lists_class/text/linked_list_overview.tex,True,
+Lists Immutable,Easy,all-primes,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_immutable/easy/all-primes.tex,True,"sp18-week6,fa18-week6,fa17-week6"
+Lists Immutable,Easy,reverse,env-diagram,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_immutable/easy/env-diagram/reverse.tex,False,"sp18-week9,sp18-week6,fa18-week6,fa17-week9,fa17-week6"
+Lists Immutable,Easy,simple-modified,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_immutable/easy/wwpd/simple-modified.tex,True,
+Lists Immutable,Easy,simple,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_immutable/easy/wwpd/simple.tex,False,"sp18-week6,fa17-week6"
+Lists Immutable,Medium,comprehensions,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_immutable/medium/comprehensions.tex,False,sp18-week9_extra
+Lists Immutable,Medium,duplicate-list,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_immutable/medium/duplicate-list.tex,False,
+Lists Immutable,Medium,gen-list,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_immutable/medium/gen-list.tex,False,
+Lists Immutable,Medium,assignment-and-slicing,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_immutable/medium/wwpd/assignment-and-slicing.tex,False,sp18-week9_extra
+Lists Immutable,Text,list_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_immutable/text/list_overview.tex,True,
+Lists Mutable,Easy,append-to-all,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/easy/append-to-all.tex,False,
+Lists Mutable,Easy,dogs,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/easy/dogs.tex,False,
+Lists Mutable,Easy,pompom,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/easy/pompom.tex,False,
+Lists Mutable,Easy,wwpd-mixed,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/easy/wwpd-mixed.tex,False,fa18-week6
+Lists Mutable,Easy,wwpd,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/easy/wwpd.tex,False,"sp18-week9_extra,sp18-week9,sp18-week8,sp18-week7,sp18-week7-old,sp18-week6,sp18-week4,fa18-week6,fa17-week9,fa17-week8,fa17-week7,fa17-week6,fa17-week4"
+Lists Mutable,Easy,mystery,env-diagram,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/easy/env-diagram/mystery.tex,False,"sp18-week7,sp18-week4,fa17-week4"
+Lists Mutable,Easy,pokemon,env-diagram,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/easy/env-diagram/pokemon.tex,False,
+Lists Mutable,Easy,pompom,env-diagram,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/easy/env-diagram/pompom.tex,False,
+Lists Mutable,Medium,accumulate,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/accumulate.tex,True,"sp18-week7,fa17-week8"
+Lists Mutable,Medium,ballot-rigger,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/ballot-rigger.tex,False,
+Lists Mutable,Medium,incredibles,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/incredibles.tex,True,
+Lists Mutable,Medium,wwpd-mutation-expanded,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/wwpd-mutation-expanded.tex,True,
+Lists Mutable,Medium,wwpd-mutation,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/wwpd-mutation.tex,False,
+Lists Mutable,Medium,bless-up,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/env/bless-up.tex,False,
+Lists Mutable,Medium,env-prog,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/env/env-prog.tex,True,
+Lists Mutable,Medium,fruit_loops,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/env/fruit_loops.tex,True,
+Lists Mutable,Medium,nice-ice-cream,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/env/nice-ice-cream.tex,False,
+Lists Mutable,Medium,one-two-three,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/env/one-two-three.tex,False,sp18-week14
+Lists Mutable,Medium,sing-a-song,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/env/sing-a-song.tex,False,"sp18-week9,fa18-week7"
+Lists Mutable,Medium,spooky-list,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/medium/env/spooky-list.tex,True,
+Lists Mutable,Text,mutable-vs-immutable,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/text/mutable-vs-immutable.tex,False,
+Lists Mutable,Text,mutation_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/lists_mutable/text/mutation_overview.tex,False,
+Macros,Easy,combine-num,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/easy/combine-num.tex,False,
+Macros,Easy,macros-quasi,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/easy/macros-quasi.tex,False,
+Macros,Easy,macros-wwsd,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/easy/macros-wwsd.tex,False,
+Macros,Hard,cond-questions,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/hard/cond-questions.tex,False,
+Macros,Hard,decorators,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/hard/decorators.tex,False,
+Macros,Hard,eval-and-check,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/hard/eval-and-check.tex,False,
+Macros,Hard,fns-and-macros,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/hard/fns-and-macros.tex,False,
+Macros,Hard,if-macro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/hard/if-macro.tex,False,
+Macros,Hard,lambda-macro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/hard/lambda-macro.tex,False,
+Macros,Hard,WWSD,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/hard/WWSD.tex,False,
+Macros,Hard,zero-cond,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/hard/zero-cond.tex,False,
+Macros,Medium,and-odds,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/medium/and-odds.tex,False,
+Macros,Medium,apply-twice,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/medium/apply-twice.tex,False,
+Macros,Medium,extended-if,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/medium/extended-if.tex,False,
+Macros,Medium,if-macro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/medium/if-macro.tex,False,
+Macros,Medium,stream-macro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/medium/stream-macro.tex,False,
+Macros,Text,intro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/macros/text/intro.tex,False,"sp18-week4,sp18-week14,sp18-week12,sp18-week11,fa17-week5,fa17-week4"
+Misc,,golden-rule-of-equals,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/misc/golden-rule-of-equals.tex,False,
+Misc,,lost-on-the-moon,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/misc/lost-on-the-moon.tex,False,
+Nonlocal,Easy,campanile,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/nonlocal/easy/env/campanile.tex,False,
+Nonlocal,Easy,digits,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/nonlocal/easy/env/digits.tex,False,"sp18-week4,fa17-week5,fa17-week4"
+Nonlocal,Easy,kale,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/nonlocal/easy/env/kale.tex,False,"sp18-week7,fa18-week7,fa17-week8"
+Nonlocal,Easy,what,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/nonlocal/easy/env/what.tex,False,"sp18-week9_extra,sp18-week13,fa17-week15,fa17-week13,fa17-week11"
+Nonlocal,Medium,digit-getter,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/nonlocal/medium/digit-getter.tex,False,fa18-week7
+Nonlocal,Medium,make-seq-generator,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/nonlocal/medium/make-seq-generator.tex,False,
+Nonlocal,Medium,pingpong,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/nonlocal/medium/pingpong.tex,False,"sp18-week8,sp18-week7,fa17-week8"
+Nonlocal,Medium,pingpongv2,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/nonlocal/medium/pingpongv2.tex,False,fa17-week8
+Nonlocal,Medium,pingpongv3,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/nonlocal/medium/pingpongv3.tex,True,sp18-week7
+Nonlocal,Medium,amongus,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/nonlocal/medium/env/amongus.tex,True,
+Nonlocal,Text,nonlocal_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/nonlocal/text/nonlocal_overview.tex,False,
+OOP,Easy,adt,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/easy/adt.tex,False,"sp18-week7-old,sp18-week6,fa18-week6,fa17-week7"
+OOP,Easy,dll,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/easy/dll.tex,True,
+OOP,Easy,star-wars,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/easy/star-wars.tex,False,
+OOP,Easy,team-baller,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/easy/team-baller.tex,False,"sp18-week8,fa17-week8"
+OOP,Easy,foobar,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/easy/wwpd/foobar.tex,False,"sp18-week4,fa17-week4"
+OOP,Easy,hoop,wwpd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/easy/wwpd/hoop.tex,False,"sp18-week8,fa17-week8"
+OOP,Medium,build-a-bear,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/medium/build-a-bear.tex,False,
+OOP,Medium,flying-the-coop,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/medium/flying-the-coop.tex,False,sp18-week8
+OOP,Medium,food,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/medium/food.tex,True,"sp18-week14,fa17-week15"
+OOP,Medium,musician copy,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/medium/musician copy.tex,False,
+OOP,Medium,musician,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/medium/musician.tex,False,
+OOP,Medium,photosynthesis,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/medium/photosynthesis.tex,False,
+OOP,Medium,pingpong,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/medium/pingpong.tex,False,"sp18-week8,sp18-week7,fa17-week8"
+OOP,Text,inheritance_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/text/inheritance_overview.tex,False,
+OOP,Text,oop_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/text/oop_overview.tex,False,
+OOP,Text,overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/text/overview.tex,False,
+OOP,Text,representation_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/oop/text/representation_overview.tex,False,
+Recursion,Easy,all-true,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/easy/all-true.tex,False,
+Recursion,Easy,call-during-def,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/easy/call-during-def.tex,False,
+Recursion,Easy,combine,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/easy/combine.tex,True,"fa18-week5,fa17-week11"
+Recursion,Easy,identify-fib,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/easy/identify-fib.tex,False,
+Recursion,Easy,num-digits,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/easy/num-digits.tex,False,"sp18-week4,fa17-week5,fa17-week4"
+Recursion,Easy,three-parts,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/easy/three-parts.tex,False,
+Recursion,Easy,what,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/easy/what.tex,False,"sp18-week9_extra,sp18-week13,fa17-week15,fa17-week13,fa17-week11"
+Recursion,Easy,wrong-factorial,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/easy/wrong-factorial.tex,False,
+Recursion,Medium,add-up,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/add-up.tex,False,
+Recursion,Medium,coin-game,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/coin-game.tex,False,
+Recursion,Medium,collapse,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/collapse.tex,True,
+Recursion,Medium,combine-to-61,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/combine-to-61.tex,False,
+Recursion,Medium,combine,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/combine.tex,False,"fa18-week5,fa17-week11"
+Recursion,Medium,copy-machine1,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/copy-machine1.tex,True,fa18-week5
+Recursion,Medium,copy-machine2,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/copy-machine2.tex,True,fa18-week5
+Recursion,Medium,fizzbuzz,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/fizzbuzz.tex,False,
+Recursion,Medium,gibbonacci,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/gibbonacci.tex,False,
+Recursion,Medium,is-sorted,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/is-sorted.tex,True,"sp18-week5,sp18-week4,fa18-week5,fa17-week5,fa17-week4"
+Recursion,Medium,make-change,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/make-change.tex,True,"sp18-week5,fa17-week5"
+Recursion,Medium,mario-number,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/mario-number.tex,True,"sp18-week5,fa18-week5,fa17-week5"
+Recursion,Medium,max-subset-sum,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/max-subset-sum.tex,True,
+Recursion,Medium,midterm,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/midterm.tex,False,sp18-week9_extra
+Recursion,Medium,num-nums,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/num-nums.tex,False,
+Recursion,Medium,positionizer,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/positionizer.tex,True,
+Recursion,Medium,replace,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/replace.tex,False,"fa18-week6,fa17-week15"
+Recursion,Medium,root-subtraction,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/root-subtraction.tex,False,
+Recursion,Medium,search-level,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/search-level.tex,False,
+Recursion,Medium,subset-sum,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/subset-sum.tex,False,
+Recursion,Medium,subsets,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/subsets.tex,True,
+Recursion,Medium,sum-prime-digits,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/sum-prime-digits.tex,False,
+Recursion,Medium,foobar1,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/env/foobar1.tex,False,"sp18-week4,fa17-week4"
+Recursion,Medium,foobar2,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/env/foobar2.tex,False,"sp18-week4,fa17-week4"
+Recursion,Medium,foobar3,env,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/medium/env/foobar3.tex,False,
+Recursion,Text,introduction,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/text/introduction.tex,False,"sp18-week4,fa17-week5,fa17-week4"
+Recursion,Text,recursion_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/text/recursion_overview.tex,True,
+Recursion,Text,tree_recursion_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/recursion/text/tree_recursion_overview.tex,True,
+Scheme,Easy,hailstone,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/hailstone.tex,True,"su19-week10,su18-week10,sp18-week8,sp18-week7-old,sp18-week13,sp18-week10,fa17-week7,fa17-week13,fa17-week10"
+Scheme,Easy,let-issues,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/let-issues.tex,False,sp18-week11
+Scheme,Easy,scoping-env-diag,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/scoping-env-diag.tex,False,sp18-week11
+Scheme,Easy,scoping-intro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/scoping-intro.tex,False,sp18-week11
+Scheme,Easy,sixty-ones,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/sixty-ones.tex,False,
+Scheme,Easy,basics,wwsd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/wwsd/basics.tex,True,"su19-week10,su18-week10,sp18-week10,fa17-week10"
+Scheme,Easy,boom,wwsd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/wwsd/boom.tex,True,fa17-week11
+Scheme,Easy,define-eval,wwsd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/wwsd/define-eval.tex,True,
+Scheme,Easy,define,wwsd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/wwsd/define.tex,False,"sp18-week9,sp18-week13,sp18-week11,fa17-week15,fa17-week13,fa17-week12,fa17-week11"
+Scheme,Easy,dots,wwsd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/wwsd/dots.tex,False,
+Scheme,Easy,if-and-or,wwsd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/wwsd/if-and-or.tex,False,sp18-week11
+Scheme,Easy,lists,wwsd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/wwsd/lists.tex,False,"su19-week11,su18-week11,sp18-week9_extra,sp18-week9,sp18-week7,sp18-week6,sp18-week14,sp18-week10,fa18-week7,fa18-week6,fa17-week9,fa17-week8,fa17-week6,fa17-week15,fa17-week11,fa17-week10"
+Scheme,Easy,lists_nodots,wwsd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/wwsd/lists_nodots.tex,True,
+Scheme,Easy,special-forms,wwsd,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/easy/wwsd/special-forms.tex,True,"su19-week10,su18-week10"
+Scheme,Hard,increasing-checker,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/hard/increasing-checker.tex,False,
+Scheme,Hard,max-depth,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/hard/max-depth.tex,True,
+Scheme,Medium,add-to-all,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/add-to-all.tex,False,
+Scheme,Medium,apply-n,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/apply-n.tex,True,"su19-week10,su18-week10"
+Scheme,Medium,argmax,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/argmax.tex,False,
+Scheme,Medium,backwards-sum,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/backwards-sum.tex,False,
+Scheme,Medium,binary-list,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/binary-list.tex,False,
+Scheme,Medium,decay,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/decay.tex,True,
+Scheme,Medium,double-link,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/double-link.tex,False,"su19-week11,su18-week11,sp18-week14"
+Scheme,Medium,find-bugs,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/find-bugs.tex,False,
+Scheme,Medium,guardians-and-asteroids,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/guardians-and-asteroids.tex,False,
+Scheme,Medium,insert,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/insert.tex,False,"sp18-week14,fa17-week15"
+Scheme,Medium,is-prefix,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/is-prefix.tex,True,"su19-week11,su18-week11,sp18-week10,fa17-week10"
+Scheme,Medium,lists-hard,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/lists-hard.tex,False,"su19-week11,su18-week11"
+Scheme,Medium,lists,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/lists.tex,False,"su19-week11,su18-week11,sp18-week9_extra,sp18-week9,sp18-week7,sp18-week6,sp18-week14,sp18-week10,fa18-week7,fa18-week6,fa17-week9,fa17-week8,fa17-week6,fa17-week15,fa17-week11,fa17-week10"
+Scheme,Medium,quicksort,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/quicksort.tex,False,"sp18-week11,fa17-week11"
+Scheme,Medium,reverse-map,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/reverse-map.tex,False,
+Scheme,Medium,reverse,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/reverse.tex,True,"sp18-week9,sp18-week6,fa18-week6,fa17-week9,fa17-week6"
+Scheme,Medium,run,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/run.tex,False,fa17-week15
+Scheme,Medium,shuffle,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/shuffle.tex,False,"sp18-week14,fa17-week15"
+Scheme,Medium,skip-list,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/skip-list.tex,True,
+Scheme,Medium,skip-reduce,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/skip-reduce.tex,False,
+Scheme,Medium,sublists,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/sublists.tex,False,
+Scheme,Medium,waldo,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/waldo.tex,True,"su19-week11,su18-week11,sp18-week11,fa17-week11"
+Scheme,Medium,well-formed,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/medium/well-formed.tex,False,"su19-week11,su18-week11,sp18-week10,fa17-week11,fa17-week10"
+Scheme,Text,lists,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/text/lists.tex,False,"su19-week11,su18-week11,sp18-week9_extra,sp18-week9,sp18-week7,sp18-week6,sp18-week14,sp18-week10,fa18-week7,fa18-week6,fa17-week9,fa17-week8,fa17-week6,fa17-week15,fa17-week11,fa17-week10"
+Scheme,Text,online-interpreter,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/text/online-interpreter.tex,False,"sp18-week10,fa17-week10"
+Scheme,Text,scheme-basics-overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/text/scheme-basics-overview.tex,True,
+Scheme,Text,scheme-lists-overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/text/scheme-lists-overview.tex,True,
+Scheme,Text,special-forms,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/scheme/text/special-forms.tex,False,"su19-week10,su18-week10"
+SQL,Easy,elevator,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/easy/circus/elevator.tex,False,
+SQL,Easy,text,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/easy/circus/text.tex,False,"su19-week11,su19-week10,su18-week11,su18-week10,sp18-week9_extra,sp18-week9,sp18-week8,sp18-week7,sp18-week7-old,sp18-week6,sp18-week5,sp18-week4,sp18-week14,sp18-week13,sp18-week12,sp18-week11,sp18-week10,fa18-week6,fa18-week5,fa17-week9,fa17-week8,fa17-week7,fa17-week6,fa17-week5,fa17-week4,fa17-week15,fa17-week13,fa17-week12,fa17-week11,fa17-week10"
+SQL,Easy,trucks,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/easy/circus/trucks.tex,False,
+SQL,Hard,mod-seven,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/hard/mod-seven.tex,False,
+SQL,Medium,most-pieces-per-price,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/fish/easy/most-pieces-per-price.tex,False,sp18-week14
+SQL,Medium,most-populated-species,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/fish/easy/most-populated-species.tex,False,sp18-week14
+SQL,Medium,number-fish,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/fish/easy/number-fish.tex,False,sp18-week14
+SQL,Medium,competitor,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/fish/medium/competitor.tex,True,"sp18-week14,fa17-week15"
+SQL,Medium,undercut,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/fish/medium/undercut.tex,False,
+SQL,Medium,yearly-pop-mutative,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/fish/medium/yearly-pop-mutative.tex,False,
+SQL,Medium,yearly-pop,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/fish/medium/yearly-pop.tex,False,
+SQL,Medium,competitor,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/fish/tables/competitor.tex,False,"sp18-week14,fa17-week15"
+SQL,Medium,fish,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/fish/tables/fish.tex,False,"sp18-week14,fa17-week15"
+SQL,Medium,competitor,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/fish/text/competitor.tex,False,"sp18-week14,fa17-week15"
+SQL,Medium,intro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/fish/text/intro.tex,False,"sp18-week4,sp18-week14,sp18-week12,sp18-week11,fa17-week5,fa17-week4"
+SQL,Medium,create-table,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/mentors/create-table.tex,False,sp18-week14
+SQL,Medium,table,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/mentors/table.tex,False,"sp18-week9_extra,sp18-week9,sp18-week7,sp18-week6,sp18-week14,fa18-week7,fa18-week6,fa17-week8,fa17-week6,fa17-week15"
+SQL,Medium,alphabetical,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/mentors/easy/alphabetical.tex,False,
+SQL,Medium,food-and-color-if-language-not-python,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/mentors/easy/food-and-color-if-language-not-python.tex,True,sp18-week14
+SQL,Medium,food-if-color-green,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/mentors/easy/food-if-color-green.tex,False,sp18-week14
+SQL,Medium,pairs-same-language,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/mentors/medium/pairs-same-language.tex,True,sp18-week14
+SQL,Medium,text,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/outfits/text.tex,False,"su19-week11,su19-week10,su18-week11,su18-week10,sp18-week9_extra,sp18-week9,sp18-week8,sp18-week7,sp18-week7-old,sp18-week6,sp18-week5,sp18-week4,sp18-week14,sp18-week13,sp18-week12,sp18-week11,sp18-week10,fa18-week6,fa18-week5,fa17-week9,fa17-week8,fa17-week7,fa17-week6,fa17-week5,fa17-week4,fa17-week15,fa17-week13,fa17-week12,fa17-week11,fa17-week10"
+SQL,Medium,lucky-shirt,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/outfits/medium/lucky-shirt.tex,True,
+SQL,Medium,sum-scores,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/outfits/medium/sum-scores.tex,False,
+SQL,Medium,grades,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/outfits/tables/grades.tex,False,
+SQL,Medium,outfits,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/sql/medium/outfits/tables/outfits.tex,False,
+Streams Python,Easy,double-naturals,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_python/easy/double-naturals.tex,False,
+Streams Python,Easy,factorial-stream,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_python/easy/factorial-stream.tex,False,
+Streams Python,Easy,interleave,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_python/easy/interleave.tex,False,"sp18-week13,fa17-week13"
+Streams Python,Easy,wwpd,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_python/easy/wwpd.tex,False,"sp18-week9_extra,sp18-week9,sp18-week8,sp18-week7,sp18-week7-old,sp18-week6,sp18-week4,fa18-week6,fa17-week9,fa17-week8,fa17-week7,fa17-week6,fa17-week4"
+Streams Python,Medium,cycle-ith,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_python/medium/cycle-ith.tex,False,
+Streams Python,Medium,unique-stream,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_python/medium/unique-stream.tex,False,
+Streams Python,Text,docstrings,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_python/text/docstrings.tex,False,
+Streams Python,Text,implementation,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_python/text/implementation.tex,False,"sp18-week9,sp18-week7-old,sp18-week6,fa18-week6,fa17-week9,fa17-week7,fa17-week15"
+Streams Scheme,Easy,add-streams,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_scheme/easy/add-streams.tex,False,
+Streams Scheme,Easy,double-naturals,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_scheme/easy/double-naturals.tex,False,
+Streams Scheme,Easy,interleave,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_scheme/easy/interleave.tex,False,"sp18-week13,fa17-week13"
+Streams Scheme,Easy,intro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_scheme/easy/intro.tex,False,"sp18-week4,sp18-week14,sp18-week12,sp18-week11,fa17-week5,fa17-week4"
+Streams Scheme,Easy,wwsd,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_scheme/easy/wwsd.tex,False,"su19-week10,su18-week10,sp18-week11,sp18-week10,fa17-week10"
+Streams Scheme,Hard,pairer,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_scheme/hard/pairer.tex,False,
+Streams Scheme,Medium,coalesce,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_scheme/medium/coalesce.tex,False,
+Streams Scheme,Medium,puns,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_scheme/medium/puns.tex,False,"sp18-week14,fa17-week15"
+Streams Scheme,Medium,truthful-stream,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_scheme/medium/truthful-stream.tex,False,
+Streams Scheme,Text,basic,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_scheme/text/basic.tex,False,"su19-week10,su18-week10,sp18-week10,fa17-week10"
+Streams Scheme,Text,doctest-helpers,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/streams_scheme/text/doctest-helpers.tex,False,
+Tail Recursion,Easy,intro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/tail-recursion/easy/intro.tex,False,"sp18-week4,sp18-week14,sp18-week12,sp18-week11,fa17-week5,fa17-week4"
+Tail Recursion,Medium,count-instance,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/tail-recursion/medium/count-instance.tex,False,sp18-week12
+Tail Recursion,Medium,filter-nested,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/tail-recursion/medium/filter-nested.tex,False,
+Tail Recursion,Medium,filter,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/tail-recursion/medium/filter.tex,False,"sp18-week12,fa18-week7"
+Tail Recursion,Medium,slice,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/tail-recursion/medium/slice.tex,False,
+Tail Recursion,Medium,sum-list,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/tail-recursion/medium/sum-list.tex,False,fa17-week12
+Tail Recursion,Text,intro,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/tail-recursion/text/intro.tex,False,"sp18-week4,sp18-week14,sp18-week12,sp18-week11,fa17-week5,fa17-week4"
+Trees Adt,Easy,draw-tree,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/easy/draw-tree.tex,False,"sp18-week7-old,sp18-week6,fa18-week6,fa17-week7"
+Trees Adt,Easy,diagram,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/easy/construct-tree/diagram.tex,False,"sp18-week9_extra,sp18-week9,sp18-week7,sp18-week7-old,sp18-week6,sp18-week4,sp18-week14,fa18-week7,fa18-week6,fa17-week8,fa17-week7,fa17-week6,fa17-week4,fa17-week15,fa17-week12,fa17-week11"
+Trees Adt,Easy,get-item,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/easy/construct-tree/get-item.tex,False,"sp18-week7-old,sp18-week6,fa18-week6,fa17-week7"
+Trees Adt,Easy,question,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/easy/construct-tree/question.tex,False,"su19-week11,su19-week10,su18-week11,su18-week10,sp18-week9_extra,sp18-week9,sp18-week8,sp18-week7,sp18-week7-old,sp18-week6,sp18-week5,sp18-week4,sp18-week14,sp18-week13,sp18-week12,sp18-week11,sp18-week10,fa18-week7,fa18-week6,fa18-week5,fa17-week9,fa17-week8,fa17-week7,fa17-week6,fa17-week5,fa17-week4,fa17-week15,fa17-week13,fa17-week12,fa17-week11,fa17-week10"
+Trees Adt,Easy,wwpd,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/easy/construct-tree/wwpd.tex,False,"sp18-week9_extra,sp18-week9,sp18-week8,sp18-week7,sp18-week7-old,sp18-week6,sp18-week4,fa18-week6,fa17-week9,fa17-week8,fa17-week7,fa17-week6,fa17-week4"
+Trees Adt,Hard,contains-n,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/hard/contains-n.tex,False,sp18-week9
+Trees Adt,Hard,scrabble,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/hard/scrabble.tex,False,
+Trees Adt,Medium,all-paths,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/all-paths.tex,True,
+Trees Adt,Medium,count,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/count.tex,False,sp18-week12
+Trees Adt,Medium,even-square-tree,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/even-square-tree.tex,False,
+Trees Adt,Medium,factor-tree copy,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/factor-tree copy.tex,False,
+Trees Adt,Medium,factor-tree,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/factor-tree.tex,False,sp18-week9
+Trees Adt,Medium,replace-x,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/replace-x.tex,False,fa18-week6
+Trees Adt,Medium,tree-sum,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/tree-sum.tex,True,"sp18-week7-old,sp18-week6,fa18-week6,fa17-week7"
+Trees Adt,Medium,correct-tree,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/min-heap/correct-tree.tex,False,
+Trees Adt,Medium,problem,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/min-heap/problem.tex,False,"sp18-week9_extra,sp18-week9"
+Trees Adt,Medium,wrong-tree,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/min-heap/wrong-tree.tex,False,
+Trees Adt,Medium,after,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/prune/after.tex,False,fa17-week12
+Trees Adt,Medium,before,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/prune/before.tex,False,fa17-week11
+Trees Adt,Medium,problem,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/medium/prune/problem.tex,False,"sp18-week9_extra,sp18-week9"
+Trees Adt,Text,draw-tree,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/text/draw-tree.tex,False,"sp18-week7-old,sp18-week6,fa18-week6,fa17-week7"
+Trees Adt,Text,implementation,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/text/implementation.tex,False,"sp18-week9,sp18-week7-old,sp18-week6,fa18-week6,fa17-week9,fa17-week7,fa17-week15"
+Trees Adt,Text,tree_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_adt/text/tree_overview.tex,True,
+Trees Class,Bst,sum-in-range,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/bst/medium/sum-in-range.tex,False,
+Trees Class,Bst,complex,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/bst/medium/is-symmetric/complex.tex,False,
+Trees Class,Bst,question,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/bst/medium/is-symmetric/question.tex,False,"su19-week11,su19-week10,su18-week11,su18-week10,sp18-week9_extra,sp18-week9,sp18-week8,sp18-week7,sp18-week7-old,sp18-week6,sp18-week5,sp18-week4,sp18-week14,sp18-week13,sp18-week12,sp18-week11,sp18-week10,fa18-week7,fa18-week6,fa18-week5,fa17-week9,fa17-week8,fa17-week7,fa17-week6,fa17-week5,fa17-week4,fa17-week15,fa17-week13,fa17-week12,fa17-week11,fa17-week10"
+Trees Class,Bst,simple,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/bst/medium/is-symmetric/simple.tex,False,"sp18-week6,fa17-week6"
+Trees Class,Bst,implementation,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/bst/text/implementation.tex,False,"sp18-week9,sp18-week7-old,sp18-week6,fa18-week6,fa17-week9,fa17-week7,fa17-week15"
+Trees Class,Easy,height,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/easy/height.tex,False,
+Trees Class,Easy,tree-sum,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/easy/tree-sum.tex,False,"sp18-week7-old,sp18-week6,fa18-week6,fa17-week7"
+Trees Class,Hard,contains-n,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/hard/contains-n.tex,True,sp18-week9
+Trees Class,Hard,code,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/hard/eert/code.tex,False,"sp18-week13,fa17-week15,fa17-week13,fa17-week11"
+Trees Class,Hard,question,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/hard/eert/question.tex,False,"su19-week11,su19-week10,su18-week11,su18-week10,sp18-week9_extra,sp18-week9,sp18-week8,sp18-week7,sp18-week7-old,sp18-week6,sp18-week5,sp18-week4,sp18-week14,sp18-week13,sp18-week12,sp18-week11,sp18-week10,fa18-week7,fa18-week6,fa18-week5,fa17-week9,fa17-week8,fa17-week7,fa17-week6,fa17-week5,fa17-week4,fa17-week15,fa17-week13,fa17-week12,fa17-week11,fa17-week10"
+Trees Class,Medium,delete-path-duplicates,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/medium/delete-path-duplicates.tex,True,
+Trees Class,Medium,double-tree,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/medium/double-tree.tex,False,sp18-week14
+Trees Class,Medium,factor-tree,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/medium/factor-tree.tex,False,sp18-week9
+Trees Class,Medium,remove-nodes,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/medium/remove-nodes.tex,False,
+Trees Class,Medium,replace-leaves-sum,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/medium/replace-leaves-sum.tex,False,
+Trees Class,Medium,weighted-tree,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/medium/weighted-tree.tex,True,
+Trees Class,Medium,after,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/medium/double-tree-needs-mutation/after.tex,False,fa17-week12
+Trees Class,Medium,before,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/medium/double-tree-needs-mutation/before.tex,False,fa17-week11
+Trees Class,Medium,question,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/medium/double-tree-needs-mutation/question.tex,False,"su19-week11,su19-week10,su18-week11,su18-week10,sp18-week9_extra,sp18-week9,sp18-week8,sp18-week7,sp18-week7-old,sp18-week6,sp18-week5,sp18-week4,sp18-week14,sp18-week13,sp18-week12,sp18-week11,sp18-week10,fa18-week7,fa18-week6,fa18-week5,fa17-week9,fa17-week8,fa17-week7,fa17-week6,fa17-week5,fa17-week4,fa17-week15,fa17-week13,fa17-week12,fa17-week11,fa17-week10"
+Trees Class,Text,adt_vs_class_overview,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/text/adt_vs_class_overview.tex,False,
+Trees Class,Text,implementation,coding,https://raw.githubusercontent.com/csmberkeley/csm-61a/org/topics/trees_class/text/implementation.tex,False,"sp18-week9,sp18-week7-old,sp18-week6,fa18-week6,fa17-week9,fa17-week7,fa17-week15"
