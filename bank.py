@@ -55,7 +55,7 @@ def explore(topicfolder="topics", srcfolder="src", out="bank.csv"):
                     root = root.replace("\\", "/")
                     subfolders = root.split("/")
                     topic = re.sub('[_-]', ' ', subfolders[1]).title()
-                    if topic.lower() in ['sql', 'oop', 'hof', 'bst']:
+                    if topic.lower() in ['sql', 'oop', 'hof', ]:
                         topic = topic.upper()
                     # difficulty
                     difficulty = ''
