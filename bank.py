@@ -23,7 +23,8 @@ def explore(topicfolder="topics", srcfolder="src", out="bank.csv"):
     """Explores the topic folder and writes problem descriptions to bank.
 
     PARAMETERS:
-    folder       -- str; Name of the topic folder
+    topicfolder  -- str; Name of the topic folder
+    sourcefolder -- str; Name of the source folder
     out          -- str; Name of the output file
 
     RETURNS:
