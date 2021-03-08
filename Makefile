@@ -5,7 +5,7 @@ RELEASED = mentor02
 SOLUTIONS = mentor02
 
 DST = published
-SRC = src/fa20
+SRC = src/sp21
 
 DEPEND = python make_dependency.py
 TEX = pdflatex

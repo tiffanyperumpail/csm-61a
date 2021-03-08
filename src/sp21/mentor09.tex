@@ -1,0 +1,75 @@
+\documentclass{exam}
+\usepackage{../../commonheader}
+
+%%% CHANGE THESE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\discnumber{9}
+\title{\textsc{Efficiency, Linked Lists, and Midterm Review}}
+\date{March 8, 2021 - March 11, 2021}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\maketitle
+\rule{\textwidth}{0.15em}
+\fontsize{12}{15}\selectfont
+
+%%% INCLUDE TOPICS  HERE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{guide}
+\textbf{Recommended Timeline for Non-NPE Sections}
+\begin{itemize}
+    \item Efficiency Lecture - 2 min
+    \item Efficiency Problems - 6 min
+    \item Linked Lists Lecture - 4 min
+    \item WWPD - 5 min
+    \item Skip - 4 min
+    \item Skip (no mutate) - 5 mi
+    \item Has Cycle - 9 min
+    \item Midterm Review (gauge what topics students want to brush up on and do those problems) - 15 min
+\end{itemize}
+\vspace{.5cm}
+\textbf{Recommended Timeline for NPE Sections}
+\begin{itemize}
+    \item Efficiency Lecture - 5 min
+    \item Efficiency Problems - 10 min
+    \item Linked Lists Lecture - 10 min
+    \item WWPD - 10 min
+    \item Skip - 5 min
+    \item Skip (no mutate) - 10 min
+    \item Has Cycle - 10 min
+    \item Midterm Review Lecture (gauge what topics students want to brush up on) - 5 min
+    \item Midterm Review Problems - 35 min
+\end{itemize}
+\newpage
+\end{guide}
+
+\section{Efficiency}
+\subimport{../../topics/growth/text/}{oog_overview.tex}
+\begin{questions}
+\subimport{../../topics/growth/easy/}{jumpstart.tex}
+\subimport{../../topics/growth/easy/}{belgian-waffle.tex}
+\end{questions}
+
+\section{Linked Lists}
+\subimport{../../topics/linked-lists/class/text/}{linked_list_overview.tex}
+\subimport{../../topics/linked-lists/class/text/}{implementation.tex}
+\newpage
+\begin{questions}
+\subimport{../../topics/linked-lists/class/easy/}{wwpd.tex}
+\newpage
+\subimport{../../topics/linked-lists/class/easy/}{skip.tex}
+\subimport{../../topics/linked-lists/class/easy/}{skip-no-mutate.tex}
+\subimport{../../topics/linked-lists/class/medium/}{has-cycle.tex}
+\end{questions}
+
+\newpage
+\section{Midterm Review}
+\begin{questions}
+\subimport{../../topics/lists/mutable/medium/}{incredibles.tex}
+\subimport{../../topics/recursion/medium/}{subsets.tex}
+\newpage
+\subimport{../../topics/generators/medium/}{num-elems.tex}
+\newpage
+\subimport{../../topics/trees/class/medium/}{delete-path-duplicates.tex}
+\subimport{../../topics/trees/class/hard/}{contains-n.tex}
+\end{questions}
+
+\end{document}
